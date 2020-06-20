@@ -4,12 +4,10 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import IconButton from '@material-ui/core/IconButton';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
 import ListItemText from '@material-ui/core/ListItemText';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
-import MailIcon from '@material-ui/icons/Mail';
 import Divider from '@material-ui/core/Divider';
 import List from '@material-ui/core/List';
+import { useLocation } from 'hooks/router.hooks';
 
 interface SideNavProps {
     onClose(): void;
@@ -26,9 +24,33 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
+const navItems = [
+    {
+        text: 'Учебные планы',
+        link: 'study-plans'
+    },
+    {
+        text: 'Учебные планы',
+        link: 'study-plans'
+    },
+    {
+        text: 'Учебные планы',
+        link: 'study-plans'
+    }, 
+    {
+        text: 'Учебные планы',
+        link: 'study-plans'
+    }, 
+    {
+        text: 'Учебные планы',
+        link: 'study-plans'
+    }, 
+]
+
 const SideNav: React.FC<SideNavProps> = ({onClose}) => {
     const classes = useStyles();
     const theme = useTheme();
+    const {location, navigate} = useLocation();
 
     return (
     <>
@@ -39,17 +61,17 @@ const SideNav: React.FC<SideNavProps> = ({onClose}) => {
         </div>
         <Divider />
         <List>
-            {['nav1', '', 'nav2', 'nav3'].map((text) => (
-                <ListItem button key={text}>
-                    <ListItemText primary={text} />
+            {navItems.map((item) => (
+                <ListItem button key={item.text} onClick={() => navigate(item.link)}>
+                    <ListItemText primary={item.text} />
                 </ListItem>
             ))}
         </List>
         <Divider />
         <List>
-            {['nav4', 'nav5', 'nav6'].map((text) => (
-                <ListItem button key={text}>
-                    <ListItemText primary={text} />
+            {navItems.map((item) => (
+                <ListItem button key={item.text} onClick={() => navigate(item.link)}>
+                    <ListItemText primary={item.text} />
                 </ListItem>
             ))}
         </List>

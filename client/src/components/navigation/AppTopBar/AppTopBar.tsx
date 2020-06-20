@@ -1,26 +1,13 @@
 import React from 'react';
 import clsx from 'clsx';
-import {Route, Switch} from 'react-router-dom';
-import Container from '@material-ui/core/Container';
-import HomePage from 'pages/HomePage/HomePage';
-import { makeStyles, useTheme } from '@material-ui/core/styles';
-import Loading from 'components/Loading/Loading';
-import Drawer from '@material-ui/core/Drawer';
+import { fade, makeStyles, useTheme } from '@material-ui/core/styles';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import MenuIcon from '@material-ui/icons/Menu';
-import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
-import ListItem from '@material-ui/core/ListItem';
-import ListItemIcon from '@material-ui/core/ListItemIcon';
-import ListItemText from '@material-ui/core/ListItemText';
-import InboxIcon from '@material-ui/icons/MoveToInbox';
-import MailIcon from '@material-ui/icons/Mail';
-import Divider from '@material-ui/core/Divider';
-import List from '@material-ui/core/List';
-import SideNav from 'components/navigation/SideNav/SideNav';
+import InputBase from '@material-ui/core/InputBase';
+import SearchIcon from '@material-ui/icons/Search';
 
 const drawerWidth = 240;
 
@@ -50,6 +37,45 @@ const useStyles = makeStyles((theme) => ({
     hide: {
       	display: 'none',
     },
+    search: {
+        position: 'relative',
+        borderRadius: theme.shape.borderRadius,
+        backgroundColor: fade(theme.palette.common.white, 0.15),
+        '&:hover': {
+            backgroundColor: fade(theme.palette.common.white, 0.25),
+        },
+        marginLeft: 0,
+        width: '100%',
+        [theme.breakpoints.up('sm')]: {
+            marginLeft: theme.spacing(1),
+            width: 'auto',
+        },
+    },
+    searchIcon: {
+        padding: theme.spacing(0, 2),
+        height: '100%',
+        position: 'absolute',
+        pointerEvents: 'none',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+    },
+    inputRoot: {
+        color: 'inherit',
+    },
+    inputInput: {
+        padding: theme.spacing(1, 1, 1, 0),
+        // vertical padding + font size from searchIcon
+        paddingLeft: `calc(1em + ${theme.spacing(4)}px)`,
+        transition: theme.transitions.create('width'),
+        width: '100%',
+        [theme.breakpoints.up('sm')]: {
+            width: '12ch',
+            '&:focus': {
+            width: '20ch',
+            },
+        },
+    },
   }));
 
 const AppTopBar: React.FC<AppTopBarProps> = ({handleDrawerOpen, open}) => {
@@ -65,15 +91,28 @@ const AppTopBar: React.FC<AppTopBarProps> = ({handleDrawerOpen, open}) => {
                 <IconButton
                     color="inherit"
                     aria-label="open drawer"
-                    edge="end"
+                    edge="start"
                     onClick={handleDrawerOpen}
                     className={clsx(open && classes.hide)}
                 >
                     <MenuIcon />
                 </IconButton>
                 <Typography variant="h6" noWrap className={classes.title}>
-                    DGTU
+                    ДГТУ
                 </Typography>
+                <div className={classes.search}>
+                    <div className={classes.searchIcon}>
+                        <SearchIcon />
+                    </div>
+                    <InputBase
+                        placeholder="Поиск..."
+                        classes={{
+                            root: classes.inputRoot,
+                            input: classes.inputInput,
+                        }}
+                        inputProps={{ 'aria-label': 'search' }}
+                    />
+                </div>
             </Toolbar>
         </AppBar>
     </>
