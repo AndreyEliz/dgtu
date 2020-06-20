@@ -50,7 +50,7 @@ const BarChart: React.FC<BarChartProps> = ({ data, keys, by, legends, matcher })
             tickSize: 5,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'значение',
+            legend: 'вакансии',
             legendPosition: 'middle',
             legendOffset: -40
         }}

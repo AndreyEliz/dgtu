@@ -12,14 +12,10 @@ import CardCustom from 'components/CardCustom/CardCustom';
 import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
 import WarningIcon from '@material-ui/icons/Warning';
 import { useLocation } from 'hooks/router.hooks';
+import PlanStatusIcon from 'components/icons/PlanStatusIcon/PlanStatusIcon';
 
 const useStyles = makeStyles((theme) => ({
-    ok: {
-        color: theme.palette.success.main,
-    },
-    warning: {
-        color: theme.palette.error.main,
-    },
+
     listItem: {
         cursor: 'pointer',
         '&:hover': {
@@ -34,14 +30,21 @@ const baclanList = [
     {text:'03.03.01 - Прикладные математика и физика', isOk: true},
     {text:'08.03.01 - Строительство', isOk: true},
     {text:'09.03.01 - Информатика и вычислительная техника', isOk: true},
-    {text:'09.03.03 - Прикладная информатика', isOk: false},
+    {text:'09.03.03 - Прикладная информатика', isOk: false, status: 'warning'},
     {text:'09.03.04 - Программная инженерия', isOk: true},
+    {text: '01.04.04 - Прикладная математика', isOk: true},
+    {text:'02.04.03 - Математическое обеспечение и администрирование информационных систем', isOk: true},
+    {text:'07.04.01 - Архитектура', isOk: false, status: 'error'},
+    {text:'07.04.02 - Реконструкция и реставрация архитектурного наследия', isOk: true},
+    {text:'07.04.03 - Дизайн архитектурной среды', isOk: true},
+    {text:'07.04.04 - Градостроительство', isOk: true},
+    {text:'08.04.01 - Строительство', isOk: true},
 ]
 
 const magList = [
     {text: '01.04.04 - Прикладная математика', isOk: true},
     {text:'02.04.03 - Математическое обеспечение и администрирование информационных систем', isOk: true},
-    {text:'07.04.01 - Архитектура', isOk: false},
+    {text:'07.04.01 - Архитектура', isOk: false, status: 'error'},
     {text:'07.04.02 - Реконструкция и реставрация архитектурного наследия', isOk: true},
     {text:'07.04.03 - Дизайн архитектурной среды', isOk: true},
     {text:'07.04.04 - Градостроительство', isOk: true},
@@ -67,15 +70,13 @@ const StudyPlansPage: React.FC = () => {
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
-                            <IconButton edge="end" aria-label="comments">
-                                {item.isOk ? <CheckCircleOutlineIcon  className={classes.ok}/> : <WarningIcon className={classes.warning}/>}
-                            </IconButton>
+                            <PlanStatusIcon plan={item}/>
                         </ListItemSecondaryAction>
                     </ListItem>)}
                 </List>
             </CardContent>
         </CardCustom>
-        <CardCustom title="Магистратура">
+        {/* <CardCustom title="Магистратура">
             <CardContent>
                 <List>
                     {magList.map((item) => 
@@ -87,14 +88,12 @@ const StudyPlansPage: React.FC = () => {
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
-                            <IconButton edge="end" aria-label="comments">
-                                {item.isOk ? <CheckCircleOutlineIcon  className={classes.ok}/> : <WarningIcon className={classes.warning}/>}
-                            </IconButton>
+                            <PlanStatusIcon plan={item}/>
                         </ListItemSecondaryAction>
                     </ListItem>)}
                 </List>
             </CardContent>
-        </CardCustom>
+        </CardCustom> */}
     </Box>
     );
 }
