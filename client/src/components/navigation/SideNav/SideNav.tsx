@@ -30,21 +30,9 @@ const navItems = [
         link: 'study-plans'
     },
     {
-        text: 'Учебные планы',
+        text: 'Добавить программу',
         link: 'study-plans'
     },
-    {
-        text: 'Учебные планы',
-        link: 'study-plans'
-    }, 
-    {
-        text: 'Учебные планы',
-        link: 'study-plans'
-    }, 
-    {
-        text: 'Учебные планы',
-        link: 'study-plans'
-    }, 
 ]
 
 const SideNav: React.FC<SideNavProps> = ({onClose}) => {
@@ -59,14 +47,6 @@ const SideNav: React.FC<SideNavProps> = ({onClose}) => {
                 {theme.direction !== 'rtl' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
             </IconButton>
         </div>
-        <Divider />
-        <List>
-            {navItems.map((item) => (
-                <ListItem button key={item.text} onClick={() => navigate(item.link)}>
-                    <ListItemText primary={item.text} />
-                </ListItem>
-            ))}
-        </List>
         <Divider />
         <List>
             {navItems.map((item) => (

@@ -9,6 +9,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 
 interface CardCustomProps {
     title: string;
+    defaultOpen?: boolean;
 }
 
 const useStyles = makeStyles((theme) => ({
@@ -25,10 +26,13 @@ const useStyles = makeStyles((theme) => ({
     expandOpen: {
         transform: 'rotate(180deg)',
     },
+    header: {
+        fontSize: '1.2rem',
+    }
 }));
 
-const CardCustom: React.FC<CardCustomProps> = ({title, ...props}) => {
-    const [expanded, setExpanded] = React.useState(true);
+const CardCustom: React.FC<CardCustomProps> = ({title, defaultOpen=true, ...props}) => {
+    const [expanded, setExpanded] = React.useState(defaultOpen);
 
     const classes = useStyles();
 
@@ -51,7 +55,7 @@ const CardCustom: React.FC<CardCustomProps> = ({title, ...props}) => {
                     <ExpandMoreIcon />
                 </IconButton>
                 }
-                title={title}
+                title={<span className={classes.header}>{title}</span>}
             />
             <Collapse in={expanded} timeout="auto" unmountOnExit>
                 {props.children}

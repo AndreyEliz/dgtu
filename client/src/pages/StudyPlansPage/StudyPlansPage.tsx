@@ -11,6 +11,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import CardCustom from 'components/CardCustom/CardCustom';
 import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
 import WarningIcon from '@material-ui/icons/Warning';
+import { useLocation } from 'hooks/router.hooks';
 
 const useStyles = makeStyles((theme) => ({
     ok: {
@@ -19,6 +20,12 @@ const useStyles = makeStyles((theme) => ({
     warning: {
         color: theme.palette.error.main,
     },
+    listItem: {
+        cursor: 'pointer',
+        '&:hover': {
+            backgroundColor: theme.palette.grey[100],
+        }
+    }
 }));
 
 const baclanList = [
@@ -42,8 +49,8 @@ const magList = [
 ]
 
 const StudyPlansPage: React.FC = () => {
-    const [expanded, setExpanded] = React.useState(true);
     const classes = useStyles();
+    const {location, navigate} = useLocation();
  
     return (
     <Box>
@@ -52,7 +59,12 @@ const StudyPlansPage: React.FC = () => {
             <CardContent>
                 <List>
                     {baclanList.map((item) => 
-                    <ListItem key={item.text} dense>
+                    <ListItem
+                        key={item.text}
+                        dense
+                        className={classes.listItem}
+                        onClick={() => navigate('/criteries')}
+                    >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
                             <IconButton edge="end" aria-label="comments">
@@ -67,7 +79,12 @@ const StudyPlansPage: React.FC = () => {
             <CardContent>
                 <List>
                     {magList.map((item) => 
-                    <ListItem key={item.text} dense>
+                    <ListItem 
+                        key={item.text}
+                        dense
+                        className={classes.listItem}
+                        onClick={() => navigate('/criteries')}
+                    >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
                             <IconButton edge="end" aria-label="comments">
