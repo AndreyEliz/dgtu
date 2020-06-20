@@ -24,7 +24,7 @@ const signOptions = {
 
 const app = express();
 app.use(cors({credentials: true, origin: true}));
-const port = 44359;
+const port = 44358;
 
 app.use(express.json());
 app.use(express.urlencoded({
@@ -45,7 +45,7 @@ app.listen(port, (err) => {
  * mocks
  */
 
-app.post('/authentication/token',(request, response) => {
+app.post('/api/authentication/token',(request, response) => {
     console.log(request.body)
     const payload = {
         username: request.body.username
