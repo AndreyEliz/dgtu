@@ -42,7 +42,7 @@ const BarChart: React.FC<BarChartProps> = ({ data, keys, by, legends, matcher })
             tickSize: 5,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'country',
+            legend: 'время',
             legendPosition: 'middle',
             legendOffset: 32
         }}
@@ -50,7 +50,7 @@ const BarChart: React.FC<BarChartProps> = ({ data, keys, by, legends, matcher })
             tickSize: 5,
             tickPadding: 5,
             tickRotation: 0,
-            legend: 'food',
+            legend: 'значение',
             legendPosition: 'middle',
             legendOffset: -40
         }}

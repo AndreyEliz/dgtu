@@ -4,6 +4,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import CardContent from '@material-ui/core/CardContent';
 import CardCustom from 'components/CardCustom/CardCustom';
 import BarChart from 'components/charts/bar/BarChart';
+import { Typography } from '@material-ui/core';
 
 const useStyles = makeStyles((theme) => ({
     ok: {
@@ -15,6 +16,11 @@ const useStyles = makeStyles((theme) => ({
     chart: {
         height: 300,
         width: 600,
+    },
+    cardContent: {
+        display: 'flex',
+        flexDirection: 'row',
+        alignItems: 'center',
     }
 }));
 
@@ -41,7 +47,7 @@ const barChartData = [
     },
     {
       "year": "2019",
-      "value": 281,
+      "value": 220,
     },
     {
       "year": "2020",
@@ -61,7 +67,7 @@ const CriteriesPage: React.FC = () => {
     return (
     <Box>
         <CardCustom title="1. Востребованность данной образовательной программы на глобальном рынке труда">
-            <CardContent>
+            <CardContent className={classes.cardContent}>
                 <Box className={classes.chart}>
                     <BarChart 
                         data={barChartData} 
@@ -69,6 +75,11 @@ const CriteriesPage: React.FC = () => {
                         keys={['value']}
                         by={'year'}
                     />
+                </Box>
+                <Box>
+                    <Typography>
+                        Востребованность программы опустилась нижеприемлемого уровня.
+                    </Typography>
                 </Box>
             </CardContent>
         </CardCustom>
