@@ -10,6 +10,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 interface CardCustomProps {
     title: string;
     defaultOpen?: boolean;
+    className?: any;
 }
 
 const useStyles = makeStyles((theme) => ({
@@ -31,7 +32,7 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-const CardCustom: React.FC<CardCustomProps> = ({title, defaultOpen=true, ...props}) => {
+const CardCustom: React.FC<CardCustomProps> = ({title, className, defaultOpen=true, ...props}) => {
     const [expanded, setExpanded] = React.useState(defaultOpen);
 
     const classes = useStyles();
@@ -39,9 +40,11 @@ const CardCustom: React.FC<CardCustomProps> = ({title, defaultOpen=true, ...prop
     const handleExpandClick = () => {
         setExpanded(!expanded);
     };
+
+    const wrapperClass = clsx(classes.customCard, className)
  
     return (
-        <Card className={classes.customCard}>
+        <Card className={wrapperClass}>
             <CardHeader
                 action={
                 <IconButton

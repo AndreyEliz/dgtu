@@ -50,7 +50,7 @@ const magList = [
 
 const StudyPlansPage: React.FC = () => {
     const classes = useStyles();
-    const {location, navigate} = useLocation();
+    const {navigate} = useLocation();
  
     return (
     <Box>

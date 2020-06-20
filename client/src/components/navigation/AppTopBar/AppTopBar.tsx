@@ -8,6 +8,7 @@ import IconButton from '@material-ui/core/IconButton';
 import Typography from '@material-ui/core/Typography';
 import InputBase from '@material-ui/core/InputBase';
 import SearchIcon from '@material-ui/icons/Search';
+import { useLocation } from 'hooks/router.hooks';
 
 const drawerWidth = 240;
 
@@ -80,6 +81,7 @@ const useStyles = makeStyles((theme) => ({
 
 const AppTopBar: React.FC<AppTopBarProps> = ({handleDrawerOpen, open}) => {
     const classes = useStyles();
+    const {navigate} = useLocation();
 
     return (
     <>
@@ -97,7 +99,7 @@ const AppTopBar: React.FC<AppTopBarProps> = ({handleDrawerOpen, open}) => {
                 >
                     <MenuIcon />
                 </IconButton>
-                <Typography variant="h6" noWrap className={classes.title}>
+                <Typography variant="h6" noWrap className={classes.title} onClick={() => navigate('')}>
                     ДГТУ
                 </Typography>
                 <div className={classes.search}>
