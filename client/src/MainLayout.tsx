@@ -1,25 +1,79 @@
 import React from 'react';
-import {Route, Switch} from 'react-router-dom';
-// import {useTheme} from '@material-ui/core/styles';
-// import useMediaQuery from '@material-ui/core/useMediaQuery';
-import Container from '@material-ui/core/Container';
-import HomePage from 'pages/HomePage/HomePage';
-import {useStyles} from 'styles/styles';
+import clsx from 'clsx';
+import { makeStyles } from '@material-ui/core/styles';
 import Loading from 'components/Loading/Loading';
+import Drawer from '@material-ui/core/Drawer';
+import SideNav from 'components/navigation/SideNav/SideNav';
+import AppTopBar from 'components/navigation/AppTopBar/AppTopBar';
+import Pages from 'routing/Pages';
+
+const drawerWidth = 240;
+
+const useStyles = makeStyles((theme) => ({
+    drawer: {
+		width: drawerWidth,
+		flexShrink: 0,
+    },
+    drawerPaper: {
+      	width: drawerWidth,
+    },
+    drawerHeader: {
+		display: 'flex',
+		alignItems: 'center',
+		padding: theme.spacing(0, 1),
+		// necessary for content to be below app bar
+		...theme.mixins.toolbar,
+		justifyContent: 'flex-start',
+    },
+    content: {
+		flexGrow: 1,
+		padding: theme.spacing(3),
+		transition: theme.transitions.create('margin', {
+			easing: theme.transitions.easing.sharp,
+			duration: theme.transitions.duration.leavingScreen,
+		}),
+		marginLeft: -drawerWidth,
+	},
+	contentShift: {
+		transition: theme.transitions.create('margin', {
+			easing: theme.transitions.easing.easeOut,
+			duration: theme.transitions.duration.enteringScreen,
+		}),
+		marginRight: 0,
+	  },
+  }));
+
 const MainLayout: React.FC = () => {
-    // const theme = useTheme();
-    // const isNotMobile = useMediaQuery(theme.breakpoints.up('md'), {noSsr: true});
     const classes = useStyles();
+    const [open, setOpen] = React.useState(false);
+
+    const handleDrawerOpen = () => {
+        setOpen(true);
+    };
+
+    const handleDrawerClose = () => {
+        setOpen(false);
+    };
 
     return (
         <React.Suspense fallback={<Loading />}>
-            {/* {!isNotMobile && <MobileNavBar/>} */}
-            <Container className={classes.layoutContainer}>
-                {/* {isNotMobile && <NavigationBar />} */}
-                <Switch>
-                    <Route exact path="/" component={HomePage} />
-                </Switch>
-            </Container>
+            <AppTopBar handleDrawerOpen={handleDrawerOpen} open={open}/>
+            <main className={clsx(classes.content, {
+				[classes.contentShift]: open,
+			})}>
+                <Pages/>
+            </main>
+            <Drawer
+                className={classes.drawer}
+                variant="persistent"
+                anchor="left"
+                open={open}
+                classes={{
+                    paper: classes.drawerPaper,
+                }}
+            >
+				<SideNav onClose={handleDrawerClose} />
+            </Drawer>
         </React.Suspense>
     );
 }
