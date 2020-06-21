@@ -1,18 +1,19 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Box from '@material-ui/core/Box';
 import { makeStyles } from '@material-ui/core/styles';
 import CardContent from '@material-ui/core/CardContent';
-import IconButton from '@material-ui/core/IconButton';
-import Typography from '@material-ui/core/Typography';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
 import ListItemText from '@material-ui/core/ListItemText';
 import CardCustom from 'components/CardCustom/CardCustom';
-import CheckCircleOutlineIcon from '@material-ui/icons/CheckCircleOutline';
-import WarningIcon from '@material-ui/icons/Warning';
 import { useLocation } from 'hooks/router.hooks';
 import PlanStatusIcon from 'components/icons/PlanStatusIcon/PlanStatusIcon';
+import { API_URL } from 'config';
+import { useDispatch } from 'react-redux';
+import { 
+    SELECT_PROGRAM
+ } from 'actions/action-types';
 
 const useStyles = makeStyles((theme) => ({
 
@@ -54,10 +55,16 @@ const magList = [
 const StudyPlansPage: React.FC = () => {
     const classes = useStyles();
     const {navigate} = useLocation();
- 
+
+    const showCriteries = (title:string) => {
+        dispatch({type: SELECT_PROGRAM, data: title})
+        navigate('/criteries')
+    }
+
+    const dispatch = useDispatch()
+
     return (
     <Box>
-        <Typography>Учебные планы</Typography>
         <CardCustom title="Бакалавриат">
             <CardContent>
                 <List>
@@ -66,7 +73,7 @@ const StudyPlansPage: React.FC = () => {
                         key={item.text}
                         dense
                         className={classes.listItem}
-                        onClick={() => navigate('/criteries')}
+                        onClick={() => showCriteries(item.text)}
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>

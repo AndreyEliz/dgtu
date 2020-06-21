@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Box from '@material-ui/core/Box';
 import { makeStyles } from '@material-ui/core/styles';
 import CardContent from '@material-ui/core/CardContent';
@@ -9,6 +9,13 @@ import ListItemText from '@material-ui/core/ListItemText';
 import CardCustom from 'components/CardCustom/CardCustom';
 import { useLocation } from 'hooks/router.hooks';
 import PlanStatusIcon from 'components/icons/PlanStatusIcon/PlanStatusIcon';
+import { API_URL } from 'config';
+import { get } from 'api/api';
+import { useDispatch } from 'react-redux';
+import { 
+    PROGRAMS_BY_UNIVERSITY,
+    SELECT_PROGRAM
+ } from 'actions/action-types';
 
 const useStyles = makeStyles((theme) => ({
     listItem: {
@@ -42,6 +49,20 @@ const errorList = [
 const HomePage: React.FC = () => {
     const classes = useStyles();
     const {navigate} = useLocation();
+
+    useEffect(() => {
+        get(`${API_URL}/DGTU/EducationalProgram`).then((data:any) => {
+            console.log('programs by university', data)
+            dispatch({type: PROGRAMS_BY_UNIVERSITY, data})
+        })
+    }, []);
+
+    const dispatch = useDispatch()
+
+    const showCriteries = (title:string) => {
+        dispatch({type: SELECT_PROGRAM, data: title})
+        navigate('/criteries')
+    }
  
     return (
     <Box>
@@ -53,7 +74,7 @@ const HomePage: React.FC = () => {
                         key={item.text}
                         dense
                         className={classes.listItem}
-                        onClick={() => navigate('/criteries')}
+                        onClick={() => showCriteries(item.text)}
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
@@ -71,7 +92,7 @@ const HomePage: React.FC = () => {
                         key={item.text}
                         dense
                         className={classes.listItem}
-                        onClick={() => navigate('/criteries')}
+                        onClick={() => showCriteries(item.text)}
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Box from '@material-ui/core/Box';
 import { makeStyles } from '@material-ui/core/styles';
 import CardContent from '@material-ui/core/CardContent';
@@ -6,6 +6,10 @@ import CardCustom from 'components/CardCustom/CardCustom';
 import BarChart from 'components/charts/bar/BarChart';
 import { Typography } from '@material-ui/core';
 import Grid from '@material-ui/core/Grid';
+import { get } from 'api/api';
+import { API_URL } from 'config';
+import { useSelector } from 'react-redux';
+import { List } from 'immutable';
 
 const useStyles = makeStyles((theme) => ({
     ok: {
@@ -16,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
     },
     chart: {
         height: 300,
-        width: 1200,
+        width: 500,
     },
     card: {
         margin: 0,
@@ -24,7 +28,12 @@ const useStyles = makeStyles((theme) => ({
     cardContent: {
         display: 'flex',
         flexDirection: 'row',
-        alignItems: 'center',
+    },
+    subheader: {
+        fontWeight: 500,
+    },
+    uniList: {
+        padding: '0 5px'
     }
 }));
 
@@ -67,14 +76,33 @@ const matcher = (item: any) => {
 
 const CriteriesPage: React.FC = () => {
     const classes = useStyles();
+
+    useEffect(() => {
+        get(`${API_URL}/DGTU/StatisticOfYear`).then((result:any) => {
+            console.log('1', result)
+        })
+        get(`${API_URL}/DGTU/AllNaukametria`).then((result:any) => {
+            console.log('2', result)
+        })
+    });
+
+    const selectedProgram: string = useSelector((store:any) => store.programs.get('selectedProgram').split(' - ')[1]) || '';
+    const programsByUni: List<any> =  useSelector((store:any) => store.programs.get('programsByUni'))
+    const selectedProgramByUni = programsByUni.filter((item) => item.get('educationalProgram').toLowerCase() === selectedProgram.toLowerCase());
+
+    console.log(selectedProgram, selectedProgramByUni.toJS())
  
+    const otherUnis = selectedProgramByUni.map((item) => item.get('university')).toSet();
+
     return (
     <Box>
+        <Typography>{selectedProgram}</Typography>
         <Grid container spacing={3}>
             <Grid item xs={12}>
                 <CardCustom className={classes.card} title="1. Востребованность данной образовательной программы на глобальном рынке труда">
                     <CardContent className={classes.cardContent}>
                         <Box className={classes.chart}>
+                            <Typography className={classes.subheader}>Динамика наличия вакансий:</Typography>
                             <BarChart 
                                 data={barChartData} 
                                 matcher={matcher}
@@ -82,18 +110,10 @@ const CriteriesPage: React.FC = () => {
                                 by={'year'}
                             />
                         </Box>
-                        <Box>
-                            <Typography>
-                                Востребованность программы опустилась ниже среднего уровня.
-                            </Typography>
-                        </Box>
-                    </CardContent>
-                </CardCustom>
-            </Grid>
-            <Grid item xs={12}>
-                <CardCustom className={classes.card} defaultOpen={false} title="2. Уровень капитализации выпускника программы">
-                    <CardContent>
-
+                        {otherUnis.size && <Box>
+                            <Typography className={classes.subheader}>Наличие программы в других университетах:</Typography>
+                            {otherUnis.map((uni) => <Typography key={uni} variant="body2" className={classes.uniList}>{uni}</Typography>)}
+                        </Box>}
                     </CardContent>
                 </CardCustom>
             </Grid>
