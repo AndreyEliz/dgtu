@@ -6,7 +6,8 @@ import CancelIcon from '@material-ui/icons/Cancel';
 import WarningIcon from '@material-ui/icons/Warning';
 
 interface PlanStatusIconProps {
-    plan: any
+    plan: any;
+    className?: any;
 }
 
 const useStyles = makeStyles((theme) => ({
@@ -21,11 +22,11 @@ const useStyles = makeStyles((theme) => ({
     },
 }));
 
-const PlanStatusIcon: React.FC<PlanStatusIconProps> = ({plan}) => {
+const PlanStatusIcon: React.FC<PlanStatusIconProps> = ({plan, className}) => {
     const classes = useStyles();
  
     return (
-    <IconButton edge="end" aria-label="comments">
+    <IconButton edge="end" aria-label="comments" className={className}>
         {plan.isOk ?
         <CheckCircleOutlineIcon  className={classes.ok}/> 
         :

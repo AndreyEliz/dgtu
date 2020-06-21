@@ -60,7 +60,7 @@ const LoginPage: React.FC = (props) => {
                     <LockOutlinedIcon />
                 </Avatar>
                 <Typography component="h1" variant="h5">
-                    Sign in
+                    Войти в систему
                 </Typography>
                 <form className={classes.form} noValidate onSubmit={onSubmit}>
                     <TextField
@@ -69,7 +69,7 @@ const LoginPage: React.FC = (props) => {
                         required
                         fullWidth
                         id="name"
-                        label="User name"
+                        label="Имя пользователя"
                         name="name"
                         autoComplete="username"
                         value={username}
@@ -81,7 +81,7 @@ const LoginPage: React.FC = (props) => {
                         required
                         fullWidth
                         name="password"
-                        label="Password"
+                        label="Пароль"
                         type="password"
                         id="password"
                         value={password}
@@ -93,12 +93,12 @@ const LoginPage: React.FC = (props) => {
                         variant="contained"
                         color="primary"
                         className={classes.submit}>
-                        Sign In
+                        Войти
                     </Button>
                     <Grid container>
                         <Grid item xs>
                             <Link href="#" variant="body2">
-                                Forgot password?
+                                Забыли пароль?
                             </Link>
                         </Grid>
                     </Grid>

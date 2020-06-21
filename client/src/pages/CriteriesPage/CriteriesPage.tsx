@@ -11,13 +11,15 @@ import { API_URL } from 'config';
 import { useSelector } from 'react-redux';
 import { List } from 'immutable';
 import PieChart from 'components/charts/pie/PieChart';
+import PlanStatusIcon from 'components/icons/PlanStatusIcon/PlanStatusIcon';
 
 const useStyles = makeStyles((theme) => ({
     ok: {
         color: theme.palette.success.main,
     },
     warning: {
-        color: theme.palette.error.main,
+        padding: 0,
+        marginRight: 5,
     },
     chart: {
         height: 300,
@@ -39,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
     },
     uniList: {
         padding: '5px 0'
-    }
+    },
 }));
 
 const barChartData = [
@@ -52,7 +54,7 @@ const barChartData = [
       "value": 231,
     },
     {
-      "year": "20112",
+      "year": "2016",
       "value": 251,
     },
     {
@@ -122,7 +124,10 @@ const CriteriesPage: React.FC = () => {
                 <CardCustom className={classes.card} title="1. Востребованность данной образовательной программы на глобальном рынке труда">
                     <CardContent className={classes.cardContent}>
                         <Box className={classes.chart}>
-                            <Typography className={classes.subheader}>Динамика наличия вакансий:</Typography>
+                            <Typography className={classes.subheader}>
+                                <PlanStatusIcon className={classes.warning} plan={{isOk: false, status: 'warning'}} />
+                                Динамика наличия вакансий:
+                            </Typography>
                             <BarChart 
                                 data={barChartData} 
                                 matcher={matcher}
