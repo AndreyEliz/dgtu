@@ -1,0 +1,3017 @@
+﻿[
+  {
+    "Year": "2017",
+    "UniversityInfo": [
+      {
+        "University": "Национальный\r\r\n  исследовательский ядерный университет \"МИФИ\"",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "90,8%",
+        "TheShareOfFundsFrom": "30,79%",
+        "CitationIndex": "27"
+      },
+      {
+        "University": "Санкт-Петербургский национальный исследовательский университет\r\r\n  информационных технологий, механики и оптики",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "53,0%",
+        "TheShareOfFundsFrom": "49,63%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Московский\r\r\n  государственный технический университет имени Н.Э.Баумана (национальный\r\r\n  исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "86,8%",
+        "TheShareOfFundsFrom": "28,86%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет \"МИЭТ\"",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "58,8%",
+        "TheShareOfFundsFrom": "49,87%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Московский\r\r\n  государственный технологический университет \"СТАНКИН\"",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "57,3%",
+        "TheShareOfFundsFrom": "42,25%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Пермский\r\r\n  национальный исследовательский политехнический университет",
+        "State": "гос.",
+        "City": "Пермский\r\r\n  край",
+        "EmployedGraduates": "77,2%",
+        "TheShareOfFundsFrom": "39,60%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский технологический университет \"МИСиС\"",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "67,8%",
+        "TheShareOfFundsFrom": "31,87%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный электротехнический университет \"ЛЭТИ\" им. В.И.\r\r\n  Ульянова (Ленина)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "84,4%",
+        "TheShareOfFundsFrom": "33,04%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Петербургский\r\r\n  государственный университет путей сообщения Императора Александра I",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "97,6%",
+        "TheShareOfFundsFrom": "36,50%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский Томский политехнический университет",
+        "State": "гос.",
+        "City": "Томская\r\r\n  область",
+        "EmployedGraduates": "43,3%",
+        "TheShareOfFundsFrom": "36,90%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Томский\r\r\n  государственный университет систем управления и радиоэлектроники",
+        "State": "гос.",
+        "City": "Томская\r\r\n  область",
+        "EmployedGraduates": "79,9%",
+        "TheShareOfFundsFrom": "42,95%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Казанский\r\r\n  национальный исследовательский технологический университет",
+        "State": "гос.",
+        "City": "Республика\r\r\n  Татарстан",
+        "EmployedGraduates": "87,3%",
+        "TheShareOfFundsFrom": "26,12%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Санкт-Петербургский горный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "97,2%",
+        "TheShareOfFundsFrom": "35,53%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Нижегородский государственный технический университет им. Р.Е.\r\r\n  Алексеева",
+        "State": "гос.",
+        "City": "Нижегородская\r\r\n  область",
+        "EmployedGraduates": "80,7%",
+        "TheShareOfFundsFrom": "28,41%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "92,6%",
+        "TheShareOfFundsFrom": "16,96%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "93,6%",
+        "TheShareOfFundsFrom": "28,74%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет нефти и газа имени И.М. Губкина",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "64,2%",
+        "TheShareOfFundsFrom": "35,55%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Тамбовский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тамбовская область",
+        "EmployedGraduates": "83,3%",
+        "TheShareOfFundsFrom": "25,38%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Белгородский\r\r\n  государственный технологический университет им. В.Г. Шухова",
+        "State": "гос.",
+        "City": "Белгородская область",
+        "EmployedGraduates": "99,9%",
+        "TheShareOfFundsFrom": "15,38%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет \"МЭИ\"",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "90,6%",
+        "TheShareOfFundsFrom": "23,19%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Московский технологический\r\r\n  университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "31,0%",
+        "TheShareOfFundsFrom": "32,69%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Российский\r\r\n  химико-технологический университет имени Д.И. Менделеева",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "15,0%",
+        "TheShareOfFundsFrom": "38,55%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  химико-технологический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "73,0%",
+        "TheShareOfFundsFrom": "20,11%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет путей сообщения Императора Николая II",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "95,7%",
+        "TheShareOfFundsFrom": "21,95%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Самарский национальный\r\r\n  исследовательский университет имени академика С.П. Королева",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "11,4%",
+        "TheShareOfFundsFrom": "28,50%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "89,2%",
+        "TheShareOfFundsFrom": "17,77%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  национальный исследовательский Академический университет Российской академии\r\r\n  наук",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "45,73%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Иркутский национальный\r\r\n  исследовательский технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "98,0%",
+        "TheShareOfFundsFrom": "13,10%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Кубанский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "6,27%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Московский технический\r\r\n  университет связи и информатики",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "29,0%",
+        "TheShareOfFundsFrom": "32,37%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "4,0%",
+        "TheShareOfFundsFrom": "18,95%",
+        "CitationIndex": "23"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  нефтяной технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "80,0%",
+        "TheShareOfFundsFrom": "14,15%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный морской технический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "7,6%",
+        "TheShareOfFundsFrom": "45,31%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Московский политехнический\r\r\n  университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "88,6%",
+        "TheShareOfFundsFrom": "13,90%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Ростовский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "93,2%",
+        "TheShareOfFundsFrom": "18,32%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет промышленных технологий и дизайна",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "90,6%",
+        "TheShareOfFundsFrom": "18,95%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Государственный университет\r\r\n  по землеустройству",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "86,1%",
+        "TheShareOfFundsFrom": "7,04%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "63,8%",
+        "TheShareOfFundsFrom": "10,42%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Иркутский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "80,2%",
+        "TheShareOfFundsFrom": "20,09%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Алтайский государственный\r\r\n  технический университет им. И.И. Ползунова",
+        "State": "гос.",
+        "City": "Алтайский край",
+        "EmployedGraduates": "95,4%",
+        "TheShareOfFundsFrom": "7,45%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "94,9%",
+        "TheShareOfFundsFrom": "15,52%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Рыбинский государственный\r\r\n  авиационный технический университет имени П.А. Соловьева",
+        "State": "гос.",
+        "City": "Ярославская область",
+        "EmployedGraduates": "98,8%",
+        "TheShareOfFundsFrom": "22,46%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Омский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "95,5%",
+        "TheShareOfFundsFrom": "14,85%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Рязанский государственный\r\r\n  радиотехнический университет",
+        "State": "гос.",
+        "City": "Рязанская область",
+        "EmployedGraduates": "63,1%",
+        "TheShareOfFundsFrom": "24,80%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Омский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "95,1%",
+        "TheShareOfFundsFrom": "11,60%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "90,3%",
+        "TheShareOfFundsFrom": "4,64%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Южно-Российский\r\r\n  государственный политехнический университет (НПИ) имени М.И. Платова",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "72,3%",
+        "TheShareOfFundsFrom": "11,14%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Дагестанский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Республика Дагестан",
+        "EmployedGraduates": "94,1%",
+        "TheShareOfFundsFrom": "19,10%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Томский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Томская область",
+        "EmployedGraduates": "81,0%",
+        "TheShareOfFundsFrom": "12,28%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Казанский национальный\r\r\n  исследовательский технический университет им. А.Н. Туполева - \"КАИ\"",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "45,3%",
+        "TheShareOfFundsFrom": "22,59%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Ульяновский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "94,8%",
+        "TheShareOfFundsFrom": "11,16%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Тверской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тверская область",
+        "EmployedGraduates": "93,2%",
+        "TheShareOfFundsFrom": "11,51%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Московский\r\r\n  физико-технический институт (государственный университет)",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "27,80%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Пущинский государственный\r\r\n  естественно-научный институт",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "44,88%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  университет инженерных технологий",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "82,6%",
+        "TheShareOfFundsFrom": "8,44%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  энергетический университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "90,3%",
+        "TheShareOfFundsFrom": "12,38%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Саратовский государственный\r\r\n  технический университет имени Гагарина Ю.А.",
+        "State": "гос.",
+        "City": "Саратовская область",
+        "EmployedGraduates": "65,3%",
+        "TheShareOfFundsFrom": "10,62%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Российский государственный\r\r\n  гидрометеорологический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "72,9%",
+        "TheShareOfFundsFrom": "16,41%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  университет архитектуры и строительства",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "4,92%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Балтийский государственный\r\r\n  технический университет \"ВОЕНМЕХ\" им. Д.Ф. Устинова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "85,1%",
+        "TheShareOfFundsFrom": "10,88%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Марий Эл",
+        "EmployedGraduates": "85,1%",
+        "TheShareOfFundsFrom": "6,68%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Ижевский государственный\r\r\n  технический университет имени М.Т. Калашникова",
+        "State": "гос.",
+        "City": "Удмуртская Республика",
+        "EmployedGraduates": "72,3%",
+        "TheShareOfFundsFrom": "10,14%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Донской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "68,5%",
+        "TheShareOfFundsFrom": "4,93%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет геосистем и технологий",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "98,4%",
+        "TheShareOfFundsFrom": "10,17%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Дальневосточный\r\r\n  государственный университет путей сообщения",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "95,8%",
+        "TheShareOfFundsFrom": "10,06%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  политехнический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "74,0%",
+        "TheShareOfFundsFrom": "17,33%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Магнитогорский\r\r\n  государственный технический университет им. Г.И. Носова",
+        "State": "гос.",
+        "City": "Челябинская область",
+        "EmployedGraduates": "12,2%",
+        "TheShareOfFundsFrom": "15,41%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Кемеровский технологический\r\r\n  институт пищевой промышленности (университет)",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "95,9%",
+        "TheShareOfFundsFrom": "10,73%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Нижегородский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "7,52%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет науки и технологий имени академика М.Ф. Решетнева",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "88,7%",
+        "TheShareOfFundsFrom": "8,28%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет аэрокосмического приборостроения",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "76,9%",
+        "TheShareOfFundsFrom": "9,22%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Альметьевский\r\r\n  государственный нефтяной институт",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "77,5%",
+        "TheShareOfFundsFrom": "13,04%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Липецкий государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Липецкая область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "6,38%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Тюменский индустриальный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Тюменская область",
+        "EmployedGraduates": "52,0%",
+        "TheShareOfFundsFrom": "7,04%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "79,2%",
+        "TheShareOfFundsFrom": "11,68%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ухтинский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Республика Коми",
+        "EmployedGraduates": "66,3%",
+        "TheShareOfFundsFrom": "16,97%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "57,7%",
+        "TheShareOfFundsFrom": "9,09%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный архитектурно-строительный университет (Сибстрин)",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "95,2%",
+        "TheShareOfFundsFrom": "4,81%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Северо-Кавказский\r\r\n  горно-металлургический институт (государственный технологический университет)",
+        "State": "гос.",
+        "City": "Республика Северная Осетия\r\r\n  - Алания",
+        "EmployedGraduates": "91,4%",
+        "TheShareOfFundsFrom": "5,54%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Комсомольский-на-Амуре\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "92,3%",
+        "TheShareOfFundsFrom": "7,02%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет телекоммуникаций им. проф. М.А. Бонч-Бруевича",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "71,7%",
+        "TheShareOfFundsFrom": "8,39%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "95,8%",
+        "TheShareOfFundsFrom": "7,60%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский Московский государственный строительный университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0,9%",
+        "TheShareOfFundsFrom": "14,49%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Московский авиационный\r\r\n  институт (национальный исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "7,4%",
+        "TheShareOfFundsFrom": "20,65%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Московский государственный\r\r\n  технический университет гражданской авиации",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "97,6%",
+        "TheShareOfFundsFrom": "8,28%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Московский\r\r\n  автомобильно-дорожный государственный технический университет (МАДИ)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "26,1%",
+        "TheShareOfFundsFrom": "15,43%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  индустриальный университет",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "39,0%",
+        "TheShareOfFundsFrom": "8,79%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет им.А.Н.Косыгина (Технологии. Дизайн. Искусство)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "77,7%",
+        "TheShareOfFundsFrom": "6,16%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Волжский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "95,1%",
+        "TheShareOfFundsFrom": "5,03%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Восточно-Сибирский\r\r\n  государственный университет технологий и управления",
+        "State": "гос.",
+        "City": "Республика Бурятия",
+        "EmployedGraduates": "95,3%",
+        "TheShareOfFundsFrom": "4,77%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  горный университет",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "72,9%",
+        "TheShareOfFundsFrom": "8,55%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Волгоградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Волгоградская область",
+        "EmployedGraduates": "21,4%",
+        "TheShareOfFundsFrom": "8,24%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный технологический институт (технический университет)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "3,4%",
+        "TheShareOfFundsFrom": "18,61%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  авиационный технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "21,3%",
+        "TheShareOfFundsFrom": "12,60%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет геодезии и картографии",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "46,4%",
+        "TheShareOfFundsFrom": "11,36%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Майкопский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Адыгея",
+        "EmployedGraduates": "78,5%",
+        "TheShareOfFundsFrom": "4,10%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Грозненский государственный\r\r\n  нефтяной технический университет имени академика М.Д. Миллионщикова",
+        "State": "гос.",
+        "City": "Чеченская Республика",
+        "EmployedGraduates": "46,0%",
+        "TheShareOfFundsFrom": "10,12%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Государственный университет\r\r\n  морского и речного флота имени адмирала С.О.Макарова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "50,5%",
+        "TheShareOfFundsFrom": "10,90%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  энергетический университет имени В.И. Ленина",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "59,9%",
+        "TheShareOfFundsFrom": "11,20%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Ковровская государственная\r\r\n  технологическая академия имени В.А.Дегтярева",
+        "State": "гос.",
+        "City": "Владимирская область",
+        "EmployedGraduates": "73,6%",
+        "TheShareOfFundsFrom": "7,21%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "51,7%",
+        "TheShareOfFundsFrom": "4,42%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Кузбасский государственный\r\r\n  технический университет имени Т.Ф. Горбачева",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "12,1%",
+        "TheShareOfFundsFrom": "8,64%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "72,9%",
+        "TheShareOfFundsFrom": "3,04%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  автомобильно-дорожный университет (СибАДИ)",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "27,7%",
+        "TheShareOfFundsFrom": "5,91%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Мурманский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Мурманская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "7,14%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "68,8%",
+        "TheShareOfFundsFrom": "3,67%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Морской государственный\r\r\n  университет имени адмирала Г.И. Невельского",
+        "State": "гос.",
+        "City": "Приморский край",
+        "EmployedGraduates": "59,4%",
+        "TheShareOfFundsFrom": "5,87%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "28,4%",
+        "TheShareOfFundsFrom": "7,36%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "2,1%",
+        "TheShareOfFundsFrom": "10,19%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет пищевых производств",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "7,48%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Российский государственный\r\r\n  геологоразведочный университет имени Серго Орджоникидзе",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "18,1%",
+        "TheShareOfFundsFrom": "7,71%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет гражданской авиации",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "8,0%",
+        "TheShareOfFundsFrom": "9,92%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ангарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "9,11%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный университет архитектуры, дизайна и искусств",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "32,7%",
+        "TheShareOfFundsFrom": "5,44%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "41,2%",
+        "TheShareOfFundsFrom": "5,08%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  инженерно-технологический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "22,1%",
+        "TheShareOfFundsFrom": "4,76%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Норильский государственный\r\r\n  индустриальный институт",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "54,4%",
+        "TheShareOfFundsFrom": "1,67%",
+        "CitationIndex": "3"
+      },
+      {
+        "University": "Калининградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Калининградская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "7,97%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Керченский государственный\r\r\n  морской технологический университет",
+        "State": "гос.",
+        "City": "Республика Крым",
+        "EmployedGraduates": "41,1%",
+        "TheShareOfFundsFrom": "1,52%",
+        "CitationIndex": "4"
+      },
+      {
+        "University": "Ульяновский институт\r\r\n  гражданской авиации имени Главного маршала авиации Б.П. Бугаева",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "7,5%",
+        "TheShareOfFundsFrom": "5,41%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Северо-Кавказская\r\r\n  государственная гуманитарно-технологическая академия",
+        "State": "гос.",
+        "City": "Карачаево-Черкесская\r\r\n  Республика",
+        "EmployedGraduates": "12,8%",
+        "TheShareOfFundsFrom": "3,54%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Государственный морской\r\r\n  университет имени адмирала Ф.Ф. Ушакова",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "2,53%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Камчатский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Камчатский край",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "5,71%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Московский архитектурный\r\r\n  институт (государственная академия)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "2,52%",
+        "CitationIndex": "4"
+      },
+      {
+        "University": "",
+        "State": "",
+        "City": "",
+        "EmployedGraduates": "",
+        "TheShareOfFundsFrom": "",
+        "CitationIndex": ""
+      }
+    ]
+  },
+  {
+    "Year": "2018",
+    "UniversityInfo": [
+      {
+        "University": "Национальный\r\r\n  исследовательский ядерный университет «МИФИ»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "97.8%",
+        "TheShareOfFundsFrom": "36.0%",
+        "CitationIndex": "29"
+      },
+      {
+        "University": "Московский государственный технический университет имени Н.Э.\r\r\n  Баумана (национальный исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "92.5%",
+        "TheShareOfFundsFrom": "33.3%",
+        "CitationIndex": "22"
+      },
+      {
+        "University": "Московский\r\r\n  физико-технический институт (государственный университет)",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "35.3%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский технологический университет «МИСиС»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "96.8%",
+        "TheShareOfFundsFrom": "32.8%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Самарский\r\r\n  национальный исследовательский университет имени академика С.П. Королева",
+        "State": "гос.",
+        "City": "Самарская\r\r\n  область",
+        "EmployedGraduates": "96.8%",
+        "TheShareOfFundsFrom": "29.0%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Пермский\r\r\n  национальный исследовательский политехнический университет",
+        "State": "гос.",
+        "City": "Пермский\r\r\n  край",
+        "EmployedGraduates": "94.4%",
+        "TheShareOfFundsFrom": "41.4%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Петербургский\r\r\n  государственный университет путей сообщения Императора Александра I",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "95.3%",
+        "TheShareOfFundsFrom": "41.3%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Томский\r\r\n  государственный университет систем управления и радиоэлектроники",
+        "State": "гос.",
+        "City": "Томская\r\r\n  область",
+        "EmployedGraduates": "84.7%",
+        "TheShareOfFundsFrom": "44.0%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет «Московский институт электронной техники»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "48.8%",
+        "TheShareOfFundsFrom": "51.1%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  национальный исследовательский университет информационных технологий,\r\r\n  механики и оптики",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "0.1%",
+        "TheShareOfFundsFrom": "44.4%",
+        "CitationIndex": "23"
+      },
+      {
+        "University": "Казанский\r\r\n  национальный исследовательский технический университет им. А.Н. Туполева-КАИ",
+        "State": "гос.",
+        "City": "Республика\r\r\n  Татарстан",
+        "EmployedGraduates": "78.1%",
+        "TheShareOfFundsFrom": "40.7%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Нижегородский\r\r\n  государственный технический университет им. Р.Е. Алексеева",
+        "State": "гос.",
+        "City": "Нижегородская\r\r\n  область",
+        "EmployedGraduates": "89.0%",
+        "TheShareOfFundsFrom": "31.5%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Казанский национальный\r\r\n  исследовательский технологический университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "92.6%",
+        "TheShareOfFundsFrom": "26.9%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Национальный исследовательский Томский политехнический\r\r\n  университет",
+        "State": "гос.",
+        "City": "Томская\r\r\n  область",
+        "EmployedGraduates": "47.8%",
+        "TheShareOfFundsFrom": "34.8%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "15.5%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный электротехнический университет «ЛЭТИ» им. В.И. Ульянова\r\r\n  (Ленина)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "68.1%",
+        "TheShareOfFundsFrom": "29.8%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет «МЭИ»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "97.9%",
+        "TheShareOfFundsFrom": "27.5%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Московский государственный\r\r\n  технологический университет «СТАНКИН»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "75.9%",
+        "TheShareOfFundsFrom": "27.2%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Санкт-Петербургский горный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "97.0%",
+        "TheShareOfFundsFrom": "32.8%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет нефти и газа (национальный исследовательский университет) имени\r\r\n  И.М. Губкина",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "80.5%",
+        "TheShareOfFundsFrom": "28.3%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  нефтяной технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "83.6%",
+        "TheShareOfFundsFrom": "20.2%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "80.6%",
+        "TheShareOfFundsFrom": "28.3%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "86.6%",
+        "TheShareOfFundsFrom": "22.2%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Белгородский\r\r\n  государственный технологический университет им. В.Г. Шухова",
+        "State": "гос.",
+        "City": "Белгородская область",
+        "EmployedGraduates": "97.5%",
+        "TheShareOfFundsFrom": "15.1%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Государственный университет\r\r\n  по землеустройству",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "8.7%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  национальный исследовательский Академический университет Российской академии\r\r\n  наук",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "46.4%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "МИРЭА-Российский\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "30.7%",
+        "TheShareOfFundsFrom": "28.0%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный морской технический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "11.0%",
+        "TheShareOfFundsFrom": "46.4%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "1.2%",
+        "TheShareOfFundsFrom": "19.8%",
+        "CitationIndex": "25"
+      },
+      {
+        "University": "Кубанский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "99.2%",
+        "TheShareOfFundsFrom": "6.7%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  химико-технологический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "84.1%",
+        "TheShareOfFundsFrom": "16.2%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Московский политехнический\r\r\n  университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "87.7%",
+        "TheShareOfFundsFrom": "15.2%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Тамбовский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тамбовская область",
+        "EmployedGraduates": "86.2%",
+        "TheShareOfFundsFrom": "17.3%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Российский университет\r\r\n  транспорта (МИИТ)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "75.8%",
+        "TheShareOfFundsFrom": "23.5%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Московский технический\r\r\n  университет связи и информатики",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "35.2%",
+        "TheShareOfFundsFrom": "27.1%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Иркутский национальный\r\r\n  исследовательский технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "95.3%",
+        "TheShareOfFundsFrom": "11.0%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Балтийский государственный\r\r\n  технический университет «ВОЕНМЕХ» им. Д.Ф. Устинова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "85.3%",
+        "TheShareOfFundsFrom": "20.8%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Российский\r\r\n  химико-технологический университет имени Д.И. Менделеева",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "15.7%",
+        "TheShareOfFundsFrom": "28.4%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "76.1%",
+        "TheShareOfFundsFrom": "16.0%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Рыбинский государственный\r\r\n  авиационный технический университет имени П.А. Соловьева",
+        "State": "гос.",
+        "City": "Ярославская область",
+        "EmployedGraduates": "99.1%",
+        "TheShareOfFundsFrom": "24.8%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Омский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "97.9%",
+        "TheShareOfFundsFrom": "13.0%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет промышленных технологий и дизайна",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "89.4%",
+        "TheShareOfFundsFrom": "17.1%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Донской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "87.1%",
+        "TheShareOfFundsFrom": "6.1%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Томский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Томская область",
+        "EmployedGraduates": "89.1%",
+        "TheShareOfFundsFrom": "13.1%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Волгоградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Волгоградская область",
+        "EmployedGraduates": "16.2%",
+        "TheShareOfFundsFrom": "26.5%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Ростовский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "97.8%",
+        "TheShareOfFundsFrom": "16.0%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "93.9%",
+        "TheShareOfFundsFrom": "14.7%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Саратовский государственный\r\r\n  технический университет имени Гагарина Ю.А.",
+        "State": "гос.",
+        "City": "Саратовская область",
+        "EmployedGraduates": "57.2%",
+        "TheShareOfFundsFrom": "14.8%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Омский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "97.9%",
+        "TheShareOfFundsFrom": "15.5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Ульяновский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "97.5%",
+        "TheShareOfFundsFrom": "13.2%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "47.0%",
+        "TheShareOfFundsFrom": "10.7%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  университет инженерных технологий",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "90.0%",
+        "TheShareOfFundsFrom": "10.3%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Дагестанский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Республика Дагестан",
+        "EmployedGraduates": "96.5%",
+        "TheShareOfFundsFrom": "18.0%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Марий Эл",
+        "EmployedGraduates": "81.5%",
+        "TheShareOfFundsFrom": "10.2%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Алтайский государственный\r\r\n  технический университет им. И.И. Ползунова",
+        "State": "гос.",
+        "City": "Алтайский край",
+        "EmployedGraduates": "99.0%",
+        "TheShareOfFundsFrom": "5.3%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "86.8%",
+        "TheShareOfFundsFrom": "4.2%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Московский авиационный\r\r\n  институт (национальный исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "11.3%",
+        "TheShareOfFundsFrom": "29.5%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  энергетический университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "91.8%",
+        "TheShareOfFundsFrom": "13.0%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Альметьевский\r\r\n  государственный нефтяной институт",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "74.6%",
+        "TheShareOfFundsFrom": "21.5%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  индустриальный университет",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "78.3%",
+        "TheShareOfFundsFrom": "8.6%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Тверской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тверская область",
+        "EmployedGraduates": "92.2%",
+        "TheShareOfFundsFrom": "10.3%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Тюменский индустриальный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Тюменская область",
+        "EmployedGraduates": "48.4%",
+        "TheShareOfFundsFrom": "13.5%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Южно-Российский\r\r\n  государственный политехнический университет (НПИ) имени М.И. Платова",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "73.4%",
+        "TheShareOfFundsFrom": "8.4%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Нижегородский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "10.3%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  университет архитектуры и строительства",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "6.3%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский Московский государственный строительный университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "6.0%",
+        "TheShareOfFundsFrom": "17.5%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Ижевский государственный\r\r\n  технический университет имени М.Т. Калашникова",
+        "State": "гос.",
+        "City": "Удмуртская Республика",
+        "EmployedGraduates": "74.6%",
+        "TheShareOfFundsFrom": "8.6%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Московский государственный\r\r\n  технический университет гражданской авиации",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "11.1%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Липецкий государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Липецкая область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "6.8%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Дальневосточный\r\r\n  государственный университет путей сообщения",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "93.4%",
+        "TheShareOfFundsFrom": "10.2%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Российский государственный\r\r\n  гидрометеорологический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "67.7%",
+        "TheShareOfFundsFrom": "13.2%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет имени А.Н. Косыгина (Технологии. Дизайн. Искусство)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "89.4%",
+        "TheShareOfFundsFrom": "4.4%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "78.0%",
+        "TheShareOfFundsFrom": "13.0%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Иркутский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "59.6%",
+        "TheShareOfFundsFrom": "13.8%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Пущинский государственный\r\r\n  естественно-научный институт (ПущГЕНИ)",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "41.5%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "94.4%",
+        "TheShareOfFundsFrom": "8.1%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "82.6%",
+        "TheShareOfFundsFrom": "9.2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет геосистем и технологий",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "7.3%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет науки и технологий имени академика М.Ф. Решетнева",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "81.4%",
+        "TheShareOfFundsFrom": "8.1%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет телекоммуникаций имени профессора М.А.\r\r\n  Бонч-Бруевича",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "75.4%",
+        "TheShareOfFundsFrom": "7.7%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Магнитогорский\r\r\n  государственный технический университет им. Г.И. Носова",
+        "State": "гос.",
+        "City": "Челябинская область",
+        "EmployedGraduates": "10.6%",
+        "TheShareOfFundsFrom": "13.5%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет аэрокосмического приборостроения",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "57.1%",
+        "TheShareOfFundsFrom": "11.8%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  горный университет",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "85.5%",
+        "TheShareOfFundsFrom": "8.0%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Комсомольский-на-Амуре\r\r\n  государственный университет",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "85.2%",
+        "TheShareOfFundsFrom": "7.5%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Северо-Кавказский\r\r\n  горно-металлургический институт (государственный технологический университет)",
+        "State": "гос.",
+        "City": "Республика Северная\r\r\n  Осетия-Алания",
+        "EmployedGraduates": "90.7%",
+        "TheShareOfFundsFrom": "5.0%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  энергетический университет имени В.И. Ленина",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "68.2%",
+        "TheShareOfFundsFrom": "14.7%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  политехнический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "62.0%",
+        "TheShareOfFundsFrom": "14.2%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Восточно-Сибирский\r\r\n  государственный университет технологий и управления",
+        "State": "гос.",
+        "City": "Республика Бурятия",
+        "EmployedGraduates": "98.7%",
+        "TheShareOfFundsFrom": "4.3%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный архитектурно-строительный университет (Сибстрин)",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "87.0%",
+        "TheShareOfFundsFrom": "5.1%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет геодезии и картографии",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "67.5%",
+        "TheShareOfFundsFrom": "7.7%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет гражданской авиации",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "34.2%",
+        "TheShareOfFundsFrom": "18.4%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Майкопский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Адыгея",
+        "EmployedGraduates": "79.0%",
+        "TheShareOfFundsFrom": "5.5%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Ухтинский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Республика Коми",
+        "EmployedGraduates": "57.5%",
+        "TheShareOfFundsFrom": "12.7%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "77.0%",
+        "TheShareOfFundsFrom": "7.3%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Рязанский государственный\r\r\n  радиотехнический университет",
+        "State": "гос.",
+        "City": "Рязанская область",
+        "EmployedGraduates": "81.8%",
+        "TheShareOfFundsFrom": "0.1%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Ярославский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ярославская область",
+        "EmployedGraduates": "79.9%",
+        "TheShareOfFundsFrom": "5.6%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Российский государственный\r\r\n  геологоразведочный университет имени Серго Орджоникидзе",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "46.6%",
+        "TheShareOfFundsFrom": "9.5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный технологический институт (технический университет)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "3.5%",
+        "TheShareOfFundsFrom": "14.8%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  авиационный технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "11.3%",
+        "TheShareOfFundsFrom": "12.6%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Московский\r\r\n  автомобильно-дорожный государственный технический университет (МАДИ)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "7.5%",
+        "TheShareOfFundsFrom": "15.3%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Волжский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "83.9%",
+        "TheShareOfFundsFrom": "4.4%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Кузбасский государственный\r\r\n  технический университет имени Т.Ф. Горбачева",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "20.7%",
+        "TheShareOfFundsFrom": "9.6%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Морской государственный\r\r\n  университет имени адмирала Г.И. Невельского",
+        "State": "гос.",
+        "City": "Приморский край",
+        "EmployedGraduates": "100.0%",
+        "TheShareOfFundsFrom": "3.5%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Грозненский государственный\r\r\n  нефтяной технический университет имени академика М.Д. Миллионщикова",
+        "State": "гос.",
+        "City": "Чеченская Республика",
+        "EmployedGraduates": "34.5%",
+        "TheShareOfFundsFrom": "12.3%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Ковровская государственная\r\r\n  технологическая академия имени В.А. Дегтярева",
+        "State": "гос.",
+        "City": "Владимирская область",
+        "EmployedGraduates": "85.8%",
+        "TheShareOfFundsFrom": "3.6%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Государственный университет\r\r\n  морского и речного флота имени адмирала С.О. Макарова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "47.2%",
+        "TheShareOfFundsFrom": "5.9%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "52.1%",
+        "TheShareOfFundsFrom": "4.0%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Мурманский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Мурманская область",
+        "EmployedGraduates": "1.8%",
+        "TheShareOfFundsFrom": "9.4%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  инженерно-технологический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "60.2%",
+        "TheShareOfFundsFrom": "4.5%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Калининградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Калининградская область",
+        "EmployedGraduates": "53.4%",
+        "TheShareOfFundsFrom": "6.2%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "70.2%",
+        "TheShareOfFundsFrom": "4.8%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  автомобильно-дорожный университет (СибАДИ)",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "28.9%",
+        "TheShareOfFundsFrom": "4.2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный университет архитектуры, дизайна и искусств",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "34.5%",
+        "TheShareOfFundsFrom": "7.5%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "36.6%",
+        "TheShareOfFundsFrom": "6.3%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет пищевых производств",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "2.6%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Ангарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "5.2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Государственный морской\r\r\n  университет имени адмирала Ф.Ф. Ушакова",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "20.8%",
+        "TheShareOfFundsFrom": "3.1%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ульяновский институт\r\r\n  гражданской авиации имени Главного маршала авиации Б.П. Бугаева",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "18.2%",
+        "TheShareOfFundsFrom": "6.3%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Норильский государственный\r\r\n  индустриальный институт",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "43.2%",
+        "TheShareOfFundsFrom": "4.1%",
+        "CitationIndex": "3"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "6.8%",
+        "TheShareOfFundsFrom": "5.2%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Северо-Кавказская\r\r\n  государственная гуманитарно-технологическая академия",
+        "State": "гос.",
+        "City": "Карачаево-Черкесская\r\r\n  Республика",
+        "EmployedGraduates": "19.2%",
+        "TheShareOfFundsFrom": "3.4%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Московский архитектурный\r\r\n  институт (государственная академия)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "9.2%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Камчатский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Камчатский край",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "5.5%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Керченский государственный\r\r\n  морской технологический университет",
+        "State": "гос.",
+        "City": "Республика Крым",
+        "EmployedGraduates": "0.0%",
+        "TheShareOfFundsFrom": "1.7%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "",
+        "State": "",
+        "City": "",
+        "EmployedGraduates": "",
+        "TheShareOfFundsFrom": "",
+        "CitationIndex": ""
+      }
+    ]
+  },
+  {
+    "Year": "2019",
+    "UniversityInfo": [
+      {
+        "University": "Национальный исследовательский ядерный университет «МИФИ»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "97,0%",
+        "TheShareOfFundsFrom": "33,2%",
+        "CitationIndex": "34"
+      },
+      {
+        "University": "Московский\r\r\n  физико-технический институт (национальный исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "46,6%",
+        "CitationIndex": "21"
+      },
+      {
+        "University": "Сколковский\r\r\n  институт науки и технологий",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "87,3%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "27,3%",
+        "CitationIndex": "27"
+      },
+      {
+        "University": "Московский\r\r\n  государственный технический университет имени Н.Э. Баумана (национальный\r\r\n  исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "94,7%",
+        "TheShareOfFundsFrom": "26,0%",
+        "CitationIndex": "25"
+      },
+      {
+        "University": "Петербургский\r\r\n  государственный университет путей сообщения Императора Александра I",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "92,7%",
+        "TheShareOfFundsFrom": "37,0%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Самарский\r\r\n  национальный исследовательский университет имени академика С.П. Королева",
+        "State": "гос.",
+        "City": "Самарская\r\r\n  область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "24,6%",
+        "CitationIndex": "21"
+      },
+      {
+        "University": "Пермский\r\r\n  национальный исследовательский политехнический университет",
+        "State": "гос.",
+        "City": "Пермский\r\r\n  край",
+        "EmployedGraduates": "89,6%",
+        "TheShareOfFundsFrom": "37,7%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский Томский политехнический университет",
+        "State": "гос.",
+        "City": "Томская\r\r\n  область",
+        "EmployedGraduates": "68,5%",
+        "TheShareOfFundsFrom": "36,3%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  национальный исследовательский университет информационных технологий,\r\r\n  механики и оптики",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "44,3%",
+        "CitationIndex": "25"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский технологический университет «МИСиС»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "92,3%",
+        "TheShareOfFundsFrom": "24,2%",
+        "CitationIndex": "21"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный электротехнический университет «ЛЭТИ» им. В.И. Ульянова\r\r\n  (Ленина)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "95,7%",
+        "TheShareOfFundsFrom": "28,4%",
+        "CitationIndex": "18"
+      },
+      {
+        "University": "Томский государственный\r\r\n  университет систем управления и радиоэлектроники",
+        "State": "гос.",
+        "City": "Томская область",
+        "EmployedGraduates": "62,8%",
+        "TheShareOfFundsFrom": "42,9%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Нижегородский государственный технический университет им. Р.Е.\r\r\n  Алексеева",
+        "State": "гос.",
+        "City": "Нижегородская\r\r\n  область",
+        "EmployedGraduates": "87,6%",
+        "TheShareOfFundsFrom": "30,2%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "99,4%",
+        "TheShareOfFundsFrom": "29,4%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Санкт-Петербургский горный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "98,4%",
+        "TheShareOfFundsFrom": "34,5%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "15,6%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет «МЭИ»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "96,3%",
+        "TheShareOfFundsFrom": "27,7%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  нефтяной технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "82,5%",
+        "TheShareOfFundsFrom": "18,5%",
+        "CitationIndex": "21"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  национальный исследовательский Академический университет Российской академии\r\r\n  наук",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "56,8%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет нефти и газа (национальный исследовательский университет) имени\r\r\n  И.М. Губкина",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "81,8%",
+        "TheShareOfFundsFrom": "28,3%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Белгородский\r\r\n  государственный технологический университет им. В.Г. Шухова",
+        "State": "гос.",
+        "City": "Белгородская область",
+        "EmployedGraduates": "97,2%",
+        "TheShareOfFundsFrom": "15,7%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский Московский государственный строительный университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "15,3%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Казанский национальный\r\r\n  исследовательский технологический университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "86,6%",
+        "TheShareOfFundsFrom": "20,9%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "90,3%",
+        "TheShareOfFundsFrom": "20,8%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Государственный университет\r\r\n  по землеустройству",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "98,7%",
+        "TheShareOfFundsFrom": "10,5%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "94,9%",
+        "TheShareOfFundsFrom": "9,1%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Московский авиационный\r\r\n  институт (национальный исследовательский университет)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "69,6%",
+        "TheShareOfFundsFrom": "26,5%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Южно-Российский\r\r\n  государственный политехнический университет (НПИ) имени М.И. Платова",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "91,0%",
+        "TheShareOfFundsFrom": "17,0%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Ростовский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "23,0%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Казанский национальный\r\r\n  исследовательский технический университет им. А.Н. Туполева - КАИ",
+        "State": "гос.",
+        "City": "#Н/Д",
+        "EmployedGraduates": "59,0%",
+        "TheShareOfFundsFrom": "27,5%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Дагестанский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Республика Дагестан",
+        "EmployedGraduates": "96,8%",
+        "TheShareOfFundsFrom": "28,8%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет гражданской авиации",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "35,2%",
+        "TheShareOfFundsFrom": "40,7%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Российский университет\r\r\n  транспорта (МИИТ)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "74,0%",
+        "TheShareOfFundsFrom": "21,9%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Кубанский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "4,8%",
+        "CitationIndex": "20"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  химико-технологический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "82,9%",
+        "TheShareOfFundsFrom": "14,7%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Национальный\r\r\n  исследовательский университет «Московский институт электронной техники»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "10,2%",
+        "TheShareOfFundsFrom": "39,7%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Иркутский национальный\r\r\n  исследовательский технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "93,8%",
+        "TheShareOfFundsFrom": "11,5%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Тамбовский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тамбовская область",
+        "EmployedGraduates": "80,9%",
+        "TheShareOfFundsFrom": "13,1%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "МИРЭА - Российский\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "29,1%",
+        "TheShareOfFundsFrom": "22,5%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Пущинский государственный\r\r\n  естественно-научный институт (ПущГЕНИ)",
+        "State": "гос.",
+        "City": "Московская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "56,0%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Ульяновский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "94,8%",
+        "TheShareOfFundsFrom": "14,1%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Московский государственный\r\r\n  технологический университет «СТАНКИН»",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "54,6%",
+        "TheShareOfFundsFrom": "18,2%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Балтийский государственный\r\r\n  технический университет «ВОЕНМЕХ» им. Д.Ф. Устинова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "89,6%",
+        "TheShareOfFundsFrom": "16,5%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Волгоградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Волгоградская область",
+        "EmployedGraduates": "21,9%",
+        "TheShareOfFundsFrom": "26,5%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Алтайский государственный\r\r\n  технический университет им. И.И. Ползунова",
+        "State": "гос.",
+        "City": "Алтайский край",
+        "EmployedGraduates": "99,0%",
+        "TheShareOfFundsFrom": "5,1%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Московский технический\r\r\n  университет связи и информатики",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "30,1%",
+        "TheShareOfFundsFrom": "26,1%",
+        "CitationIndex": "16"
+      },
+      {
+        "University": "Альметьевский\r\r\n  государственный нефтяной институт",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "4,5%",
+        "TheShareOfFundsFrom": "45,8%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Томский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Томская область",
+        "EmployedGraduates": "86,6%",
+        "TheShareOfFundsFrom": "14,8%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Донской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ростовская область",
+        "EmployedGraduates": "79,2%",
+        "TheShareOfFundsFrom": "5,8%",
+        "CitationIndex": "19"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "89,4%",
+        "TheShareOfFundsFrom": "13,9%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "71,4%",
+        "TheShareOfFundsFrom": "15,3%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Марий Эл",
+        "EmployedGraduates": "87,3%",
+        "TheShareOfFundsFrom": "10,4%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Омский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "98,4%",
+        "TheShareOfFundsFrom": "8,1%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Нижегородский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "11,6%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Саратовский государственный\r\r\n  технический университет имени Гагарина Ю.А.",
+        "State": "гос.",
+        "City": "Саратовская область",
+        "EmployedGraduates": "57,4%",
+        "TheShareOfFundsFrom": "12,6%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Рыбинский государственный\r\r\n  авиационный технический университет имени П.А. Соловьева",
+        "State": "гос.",
+        "City": "Ярославская область",
+        "EmployedGraduates": "92,8%",
+        "TheShareOfFundsFrom": "23,3%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет промышленных технологий и дизайна",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "85,3%",
+        "TheShareOfFundsFrom": "13,8%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Рязанский государственный\r\r\n  радиотехнический университет",
+        "State": "гос.",
+        "City": "Рязанская область",
+        "EmployedGraduates": "67,0%",
+        "TheShareOfFundsFrom": "20,9%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  энергетический университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "91,9%",
+        "TheShareOfFundsFrom": "13,3%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "95,7%",
+        "TheShareOfFundsFrom": "3,6%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Самарский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "83,9%",
+        "TheShareOfFundsFrom": "16,5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Воронежский государственный\r\r\n  университет инженерных технологий",
+        "State": "гос.",
+        "City": "Воронежская область",
+        "EmployedGraduates": "88,5%",
+        "TheShareOfFundsFrom": "6,9%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Дальневосточный\r\r\n  государственный университет путей сообщения",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "11,1%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Липецкий государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Липецкая область",
+        "EmployedGraduates": "95,6%",
+        "TheShareOfFundsFrom": "9,3%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Омский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "98,5%",
+        "TheShareOfFundsFrom": "10,5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный морской технический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "24,7%",
+        "TheShareOfFundsFrom": "31,2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Тюменский индустриальный\r\r\n  университет",
+        "State": "гос.",
+        "City": "Тюменская область",
+        "EmployedGraduates": "69,2%",
+        "TheShareOfFundsFrom": "3,7%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Казанский государственный\r\r\n  архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Республика Татарстан",
+        "EmployedGraduates": "94,7%",
+        "TheShareOfFundsFrom": "8,8%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Российский\r\r\n  химико-технологический университет имени Д.И. Менделеева",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "1,4%",
+        "TheShareOfFundsFrom": "21,2%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Уральский государственный\r\r\n  горный университет",
+        "State": "гос.",
+        "City": "Свердловская область",
+        "EmployedGraduates": "86,5%",
+        "TheShareOfFundsFrom": "8,5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Майкопский государственный\r\r\n  технологический университет",
+        "State": "гос.",
+        "City": "Республика Адыгея",
+        "EmployedGraduates": "99,7%",
+        "TheShareOfFundsFrom": "4,5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет телекоммуникаций имени профессора М.А.\r\r\n  Бонч-Бруевича",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "89,8%",
+        "TheShareOfFundsFrom": "4,5%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Российский государственный\r\r\n  университет имени А.Н. Косыгина (Технологии. Дизайн. Искусство)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "95,5%",
+        "TheShareOfFundsFrom": "3,6%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  индустриальный университет",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "64,4%",
+        "TheShareOfFundsFrom": "7,2%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет геосистем и технологий",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "5,6%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Московский государственный\r\r\n  технический университет гражданской авиации",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "95,2%",
+        "TheShareOfFundsFrom": "7,7%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Тверской государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Тверская область",
+        "EmployedGraduates": "78,8%",
+        "TheShareOfFundsFrom": "5,2%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Иркутский государственный\r\r\n  университет путей сообщения",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "50,7%",
+        "TheShareOfFundsFrom": "12,9%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный архитектурно-строительный университет (Сибстрин)",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "91,2%",
+        "TheShareOfFundsFrom": "5,2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "100,0%",
+        "TheShareOfFundsFrom": "4,2%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Российский государственный\r\r\n  гидрометеорологический университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "48,6%",
+        "TheShareOfFundsFrom": "10,6%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Восточно-Сибирский\r\r\n  государственный университет технологий и управления",
+        "State": "гос.",
+        "City": "Республика Бурятия",
+        "EmployedGraduates": "98,5%",
+        "TheShareOfFundsFrom": "3,9%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет науки и технологий имени академика М.Ф. Решетнева",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "69,9%",
+        "TheShareOfFundsFrom": "8,3%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет геодезии и картографии",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "75,6%",
+        "TheShareOfFundsFrom": "6,7%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Уфимский государственный\r\r\n  авиационный технический университет",
+        "State": "гос.",
+        "City": "Республика Башкортостан",
+        "EmployedGraduates": "21,2%",
+        "TheShareOfFundsFrom": "15,1%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Ковровская государственная\r\r\n  технологическая академия имени В.А. Дегтярева",
+        "State": "гос.",
+        "City": "Владимирская область",
+        "EmployedGraduates": "98,6%",
+        "TheShareOfFundsFrom": "9,3%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Ярославский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Ярославская область",
+        "EmployedGraduates": "75,9%",
+        "TheShareOfFundsFrom": "8,4%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Магнитогорский\r\r\n  государственный технический университет им. Г.И. Носова",
+        "State": "гос.",
+        "City": "Челябинская область",
+        "EmployedGraduates": "9,9%",
+        "TheShareOfFundsFrom": "11,2%",
+        "CitationIndex": "17"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  энергетический университет имени В.И. Ленина",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "56,7%",
+        "TheShareOfFundsFrom": "14,2%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Московский политехнический\r\r\n  университет",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "13,6%",
+        "TheShareOfFundsFrom": "11,5%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный университет аэрокосмического приборостроения",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "46,4%",
+        "TheShareOfFundsFrom": "8,3%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Комсомольский-на-Амуре\r\r\n  государственный университет",
+        "State": "гос.",
+        "City": "Хабаровский край",
+        "EmployedGraduates": "81,0%",
+        "TheShareOfFundsFrom": "4,9%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный технологический институт (технический университет)",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "2,1%",
+        "TheShareOfFundsFrom": "15,7%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Поволжский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Самарская область",
+        "EmployedGraduates": "79,4%",
+        "TheShareOfFundsFrom": "5,0%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Кузбасский государственный\r\r\n  технический университет имени Т.Ф. Горбачева",
+        "State": "гос.",
+        "City": "Кемеровская область",
+        "EmployedGraduates": "26,0%",
+        "TheShareOfFundsFrom": "9,4%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Северо-Кавказский\r\r\n  горно-металлургический институт (государственный технологический университет)",
+        "State": "гос.",
+        "City": "Республика Северная\r\r\n  Осетия-Алания",
+        "EmployedGraduates": "68,2%",
+        "TheShareOfFundsFrom": "1,5%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Государственный университет\r\r\n  морского и речного флота имени адмирала С.О. Макарова",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "48,0%",
+        "TheShareOfFundsFrom": "9,4%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Ухтинский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Республика Коми",
+        "EmployedGraduates": "57,8%",
+        "TheShareOfFundsFrom": "6,7%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Пензенский государственный\r\r\n  университет архитектуры и строительства",
+        "State": "гос.",
+        "City": "Пензенская область",
+        "EmployedGraduates": "47,1%",
+        "TheShareOfFundsFrom": "4,0%",
+        "CitationIndex": "12"
+      },
+      {
+        "University": "Волжский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Нижегородская область",
+        "EmployedGraduates": "72,1%",
+        "TheShareOfFundsFrom": "3,4%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Ижевский государственный\r\r\n  технический университет имени М.Т. Калашникова",
+        "State": "гос.",
+        "City": "Удмуртская Республика",
+        "EmployedGraduates": "20,5%",
+        "TheShareOfFundsFrom": "8,4%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет водного транспорта",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "86,8%",
+        "TheShareOfFundsFrom": "3,1%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "Санкт-Петербургский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Санкт-Петербург",
+        "EmployedGraduates": "26,0%",
+        "TheShareOfFundsFrom": "9,2%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Российский государственный\r\r\n  геологоразведочный университет имени Серго Орджоникидзе",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "31,1%",
+        "TheShareOfFundsFrom": "8,5%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Ивановский государственный\r\r\n  политехнический университет",
+        "State": "гос.",
+        "City": "Ивановская область",
+        "EmployedGraduates": "44,1%",
+        "TheShareOfFundsFrom": "7,1%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Московский\r\r\n  автомобильно-дорожный государственный технический университет (МАДИ)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "27,5%",
+        "TheShareOfFundsFrom": "4,1%",
+        "CitationIndex": "13"
+      },
+      {
+        "University": "Астраханский\r\r\n  государственный архитектурно-строительный университет",
+        "State": "гос.",
+        "City": "Астраханская область",
+        "EmployedGraduates": "58,6%",
+        "TheShareOfFundsFrom": "6,5%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  автомобильно-дорожный университет (СибАДИ)",
+        "State": "гос.",
+        "City": "Омская область",
+        "EmployedGraduates": "31,5%",
+        "TheShareOfFundsFrom": "5,5%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Московский государственный\r\r\n  университет пищевых производств",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "6,4%",
+        "CitationIndex": "15"
+      },
+      {
+        "University": "Брянский государственный\r\r\n  инженерно-технологический университет",
+        "State": "гос.",
+        "City": "Брянская область",
+        "EmployedGraduates": "44,0%",
+        "TheShareOfFundsFrom": "3,5%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Грозненский государственный\r\r\n  нефтяной технический университет имени академика М.Д. Миллионщикова",
+        "State": "гос.",
+        "City": "Чеченская Республика",
+        "EmployedGraduates": "40,1%",
+        "TheShareOfFundsFrom": "4,7%",
+        "CitationIndex": "9"
+      },
+      {
+        "University": "Сибирский государственный\r\r\n  университет телекоммуникаций и информатики",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "59,8%",
+        "TheShareOfFundsFrom": "4,4%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Мурманский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Мурманская область",
+        "EmployedGraduates": "1,4%",
+        "TheShareOfFundsFrom": "4,8%",
+        "CitationIndex": "14"
+      },
+      {
+        "University": "Калининградский\r\r\n  государственный технический университет",
+        "State": "гос.",
+        "City": "Калининградская область",
+        "EmployedGraduates": "39,2%",
+        "TheShareOfFundsFrom": "5,2%",
+        "CitationIndex": "8"
+      },
+      {
+        "University": "Новосибирский\r\r\n  государственный университет архитектуры, дизайна и искусств",
+        "State": "гос.",
+        "City": "Новосибирская область",
+        "EmployedGraduates": "40,2%",
+        "TheShareOfFundsFrom": "6,4%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Морской государственный\r\r\n  университет имени адмирала Г.И. Невельского",
+        "State": "гос.",
+        "City": "Приморский край",
+        "EmployedGraduates": "54,9%",
+        "TheShareOfFundsFrom": "2,7%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Ульяновский институт\r\r\n  гражданской авиации имени Главного маршала авиации Б.П. Бугаева",
+        "State": "гос.",
+        "City": "Ульяновская область",
+        "EmployedGraduates": "20,1%",
+        "TheShareOfFundsFrom": "7,6%",
+        "CitationIndex": "7"
+      },
+      {
+        "University": "Государственный морской\r\r\n  университет имени адмирала Ф.Ф. Ушакова",
+        "State": "гос.",
+        "City": "Краснодарский край",
+        "EmployedGraduates": "20,2%",
+        "TheShareOfFundsFrom": "2,2%",
+        "CitationIndex": "10"
+      },
+      {
+        "University": "Ангарский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Иркутская область",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "5,4%",
+        "CitationIndex": "11"
+      },
+      {
+        "University": "Норильский государственный\r\r\n  индустриальный институт",
+        "State": "гос.",
+        "City": "Красноярский край",
+        "EmployedGraduates": "42,0%",
+        "TheShareOfFundsFrom": "3,9%",
+        "CitationIndex": "4"
+      },
+      {
+        "University": "Московский архитектурный\r\r\n  институт (государственная академия)",
+        "State": "гос.",
+        "City": "Москва",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "8,3%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Камчатский государственный\r\r\n  технический университет",
+        "State": "гос.",
+        "City": "Камчатский край",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "5,2%",
+        "CitationIndex": "6"
+      },
+      {
+        "University": "Керченский государственный\r\r\n  морской технологический университет",
+        "State": "гос.",
+        "City": "Республика Крым",
+        "EmployedGraduates": "0,0%",
+        "TheShareOfFundsFrom": "1,3%",
+        "CitationIndex": "5"
+      },
+      {
+        "University": "",
+        "State": "",
+        "City": "",
+        "EmployedGraduates": "",
+        "TheShareOfFundsFrom": "",
+        "CitationIndex": ""
+      }
+    ]
+  }
+]

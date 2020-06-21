@@ -1,0 +1,752 @@
+﻿ [
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "statestāt",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "94",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "22",
+            "Year": "2019"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "89",
+            "TheShareOfFundsFrom": "12",
+            "CitationIndex": "21",
+            "Year": "2019"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "12",
+            "CitationIndex": "18",
+            "Year": "2019"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "88",
+            "TheShareOfFundsFrom": "10",
+            "CitationIndex": "23",
+            "Year": "2019"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "34",
+            "CitationIndex": "25",
+            "Year": "2019"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "35",
+            "CitationIndex": "19",
+            "Year": "2019"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "41",
+            "CitationIndex": "8",
+            "Year": "2019"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "34",
+            "CitationIndex": "17",
+            "Year": "2019"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "97",
+            "TheShareOfFundsFrom": "19",
+            "CitationIndex": "16",
+            "Year": "2019"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "98",
+            "TheShareOfFundsFrom": "32",
+            "CitationIndex": "9",
+            "Year": "2019"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "24",
+            "CitationIndex": "13",
+            "Year": "2019"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "97",
+            "TheShareOfFundsFrom": "26",
+            "CitationIndex": "21",
+            "Year": "2019"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "28",
+            "CitationIndex": "17",
+            "Year": "2019"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "21",
+            "CitationIndex": "17",
+            "Year": "2019"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "93",
+            "TheShareOfFundsFrom": "34",
+            "CitationIndex": "18",
+            "Year": "2019"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "98",
+            "TheShareOfFundsFrom": "13",
+            "CitationIndex": "15",
+            "Year": "2019"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "97",
+            "TheShareOfFundsFrom": "18",
+            "CitationIndex": "12",
+            "Year": "2019"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "97",
+            "TheShareOfFundsFrom": "26",
+            "CitationIndex": "6",
+            "Year": "2019"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "81",
+            "TheShareOfFundsFrom": "32",
+            "CitationIndex": "8",
+            "Year": "2019"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "96",
+            "TheShareOfFundsFrom": "12",
+            "CitationIndex": "14",
+            "Year": "2019"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "81",
+            "TheShareOfFundsFrom": "9",
+            "CitationIndex": "6",
+            "Year": "2019"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "67",
+            "TheShareOfFundsFrom": "12",
+            "CitationIndex": "7",
+            "Year": "2019"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "22",
+            "CitationIndex": "6",
+            "Year": "2019"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "70",
+            "TheShareOfFundsFrom": "15",
+            "CitationIndex": "6",
+            "Year": "2019"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "69",
+            "TheShareOfFundsFrom": "10",
+            "CitationIndex": "5",
+            "Year": "2019"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "98",
+            "TheShareOfFundsFrom": "24",
+            "CitationIndex": "12",
+            "Year": "2018"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "78",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "11",
+            "Year": "2018"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "89",
+            "TheShareOfFundsFrom": "31",
+            "CitationIndex": "18",
+            "Year": "2018"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "78",
+            "TheShareOfFundsFrom": "9",
+            "CitationIndex": "11",
+            "Year": "2018"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "26",
+            "CitationIndex": "16",
+            "Year": "2018"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "81",
+            "TheShareOfFundsFrom": "28",
+            "CitationIndex": "16",
+            "Year": "2018"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "85",
+            "TheShareOfFundsFrom": "27",
+            "CitationIndex": "9",
+            "Year": "2018"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "28",
+            "CitationIndex": "12",
+            "Year": "2018"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "96",
+            "TheShareOfFundsFrom": "25",
+            "CitationIndex": "14",
+            "Year": "2018"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "35",
+            "CitationIndex": "11",
+            "Year": "2018"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "89",
+            "TheShareOfFundsFrom": "19",
+            "CitationIndex": "16",
+            "Year": "2018"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "76",
+            "TheShareOfFundsFrom": "18",
+            "CitationIndex": "17",
+            "Year": "2018"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "15",
+            "CitationIndex": "16",
+            "Year": "2018"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "83",
+            "TheShareOfFundsFrom": "15",
+            "CitationIndex": "15",
+            "Year": "2018"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "76",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "17",
+            "Year": "2018"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "18",
+            "CitationIndex": "16",
+            "Year": "2018"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "86",
+            "TheShareOfFundsFrom": "25",
+            "CitationIndex": "11",
+            "Year": "2018"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "75",
+            "TheShareOfFundsFrom": "25",
+            "CitationIndex": "6",
+            "Year": "2018"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "85",
+            "TheShareOfFundsFrom": "27",
+            "CitationIndex": "8",
+            "Year": "2018"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "28",
+            "CitationIndex": "4",
+            "Year": "2018"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "76",
+            "TheShareOfFundsFrom": "11",
+            "CitationIndex": "9",
+            "Year": "2018"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "66",
+            "TheShareOfFundsFrom": "11",
+            "CitationIndex": "11",
+            "Year": "2018"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "7",
+            "CitationIndex": "8",
+            "Year": "2018"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "71",
+            "TheShareOfFundsFrom": "8",
+            "CitationIndex": "6",
+            "Year": "2018"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "78",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "7",
+            "Year": "2018"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "97",
+            "TheShareOfFundsFrom": "10",
+            "CitationIndex": "15",
+            "Year": "2017"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "86",
+            "TheShareOfFundsFrom": "13",
+            "CitationIndex": "14",
+            "Year": "2017"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "78",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "16",
+            "Year": "2017"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "76",
+            "TheShareOfFundsFrom": "21",
+            "CitationIndex": "23",
+            "Year": "2017"
+        },
+        {
+            "University": "Санкт-Петербургский\r\r\n  политехнический университет Петра Великого",
+            "State": "гос.",
+            "City": "Санкт-Петербург",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "27",
+            "Year": "2017"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "86",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "28",
+            "Year": "2017"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "89",
+            "TheShareOfFundsFrom": "34",
+            "CitationIndex": "13",
+            "Year": "2017"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "90",
+            "TheShareOfFundsFrom": "35",
+            "CitationIndex": "15",
+            "Year": "2017"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "96",
+            "TheShareOfFundsFrom": "17",
+            "CitationIndex": "17",
+            "Year": "2017"
+        },
+        {
+            "University": "Московский политехнический университет",
+            "State": "гос.",
+            "City": "Москва",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "85",
+            "TheShareOfFundsFrom": "18",
+            "CitationIndex": "21",
+            "Year": "2017"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "24",
+            "Year": "2017"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "98",
+            "TheShareOfFundsFrom": "19",
+            "CitationIndex": "25",
+            "Year": "2017"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "23",
+            "CitationIndex": "26",
+            "Year": "2017"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "24",
+            "CitationIndex": "20",
+            "Year": "2017"
+        },
+        {
+            "University": "Донской государственный  технический университет",
+            "State": "гос.",
+            "City": "Ростов",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "90",
+            "TheShareOfFundsFrom": "25",
+            "CitationIndex": "12",
+            "Year": "2017"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "96",
+            "TheShareOfFundsFrom": "17",
+            "CitationIndex": "17",
+            "Year": "2017"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "95",
+            "TheShareOfFundsFrom": "15",
+            "CitationIndex": "12",
+            "Year": "2017"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "18",
+            "CitationIndex": "6",
+            "Year": "2017"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "92",
+            "TheShareOfFundsFrom": "24",
+            "CitationIndex": "11",
+            "Year": "2017"
+        },
+        {
+            "University": "Новосибирский   государственный университет архитектуры, дизайна и искусств",
+            "State": "гос.",
+            "City": "Новосибирск",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "14",
+            "Year": "2017"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Информатика и вычислительная техника",
+            "EmployedGraduates": "79",
+            "TheShareOfFundsFrom": "12",
+            "CitationIndex": "3",
+            "Year": "2017"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Материаловедение",
+            "EmployedGraduates": "87",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "7",
+            "Year": "2017"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Строительные конструкции, здания и сооружения\t",
+            "EmployedGraduates": "76",
+            "TheShareOfFundsFrom": "17",
+            "CitationIndex": "6",
+            "Year": "2017"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Промышленное и гражданское строительство\t",
+            "EmployedGraduates": "91",
+            "TheShareOfFundsFrom": "16",
+            "CitationIndex": "5",
+            "Year": "2017"
+        },
+        {
+            "University": "Камчатский государственный технический университет",
+            "State": "гос.",
+            "City": "Петропавловск-Камчатский",
+            "EducationalProgram": "Математическое моделирование\t",
+            "EmployedGraduates": "71",
+            "TheShareOfFundsFrom": "15",
+            "CitationIndex": "7",
+            "Year": "2017"
+        }
+    ]
