@@ -2,10 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HAK2.Interfaces;
+using HAK2.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -32,13 +35,16 @@ namespace HAK2
                 options.AddPolicy(name: MyAllowSpecificOrigins,
                                   builder =>
                                   {
-                                      //builder.WithOrigins("http://localhost:3000");
+
                                       builder.AllowAnyOrigin()
-                       .AllowAnyMethod()
-                       .AllowAnyHeader();
+                                        .AllowAnyMethod()
+                                        .AllowAnyHeader();
                                   });
-                
             });
+
+            services.AddMemoryCache();
+            services.AddSingleton<IFakeDataService>(s => new FakeDataService(s.GetService<IMemoryCache>()));
+
             services.AddControllers();
             
         }

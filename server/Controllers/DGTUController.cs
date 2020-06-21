@@ -11,6 +11,7 @@ using Newtonsoft.Json;
 using System.IO;
 using Microsoft.Extensions.Caching.Memory;
 using System.Text;
+using HAK2.Interfaces;
 
 namespace HAK2.Controllers
 {
@@ -18,18 +19,17 @@ namespace HAK2.Controllers
     [ApiController]
     public class DGTUController : ControllerBase
     {
-        private readonly ILogger<DGTUController> _logger;
-        public DGTUController(ILogger<DGTUController> logger)
+        private readonly IFakeDataService FakeDataService;
+        public DGTUController(IFakeDataService fakeDataService)
         {
-            _logger = logger;
-            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+            FakeDataService = fakeDataService;
         }
 
         [Route("DgtuSpec")]
         [HttpGet]
         public dynamic DgtuSpec()
         {
-            var data = JsonConvert.DeserializeObject<List<DgtuSpec>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\dgtu_spec.json")));
+            var data = FakeDataService.GetDataSet<DgtuSpec>();
             return data;
         }
 
@@ -37,8 +37,8 @@ namespace HAK2.Controllers
         [HttpGet]
         public dynamic DgtuSpecAndNaukametria(string code)
         {
-            var dgtuSpec = JsonConvert.DeserializeObject<List<DgtuSpec>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\dgtu_spec.json")));
-            var naukametria = JsonConvert.DeserializeObject<List<Naukametria>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\naukametria.json")));
+            var dgtuSpec = FakeDataService.GetDataSet<DgtuSpec>();
+            var naukametria = FakeDataService.GetDataSet<Naukametria>();
 
             var result = new List<Naukametria>();
 
@@ -54,7 +54,7 @@ namespace HAK2.Controllers
         [HttpGet]
         public dynamic EducationalProgram()
         {
-            var data = JsonConvert.DeserializeObject<List<EducationalProgramInfo>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\educationalPrograms.json")));
+            var data = FakeDataService.GetDataSet<EducationalProgramInfo>();
             return data;
         }
 
@@ -62,7 +62,7 @@ namespace HAK2.Controllers
         [HttpGet]       
         public dynamic AllNaukametria(string ugnp = "")
         {
-            var data = JsonConvert.DeserializeObject<List<Naukametria>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\naukametria.json")));
+            var data = FakeDataService.GetDataSet<Naukametria>();
 
             if (string.IsNullOrEmpty(ugnp))
             {
@@ -76,7 +76,7 @@ namespace HAK2.Controllers
         [HttpGet]
         public dynamic UniversityStatistic()
         {
-            var data = JsonConvert.DeserializeObject<List<University>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\Universities.json")));
+            var data = FakeDataService.GetDataSet<University>();            
             return data;
         }
 
@@ -84,7 +84,7 @@ namespace HAK2.Controllers
         [HttpGet]
         public dynamic StatisticOfYear(string year = "all")
         {
-            var data = JsonConvert.DeserializeObject<List<YearStatistic>>(System.IO.File.ReadAllText(Path.Combine(Directory.GetCurrentDirectory(), "Data\\Vuz_Statistic.json"), Encoding.GetEncoding(1251)));
+            var data = FakeDataService.GetDataSet<YearStatistic>();            
             var result =new List<UniversityInfoByYear>();
 
             foreach(var yearLine in year =="all" ?  data : data.Where(w=>w.Year.Equals(year, StringComparison.InvariantCultureIgnoreCase)).ToList() )
