@@ -3,9 +3,11 @@ import { ResponsivePie } from '@nivo/pie';
 
 interface PieChartProps {
     data: any;
+    matcher?(item:any): boolean;
+    legends?: any
 }
 
-const PieChart: React.FC<PieChartProps>  = ({data}) => (
+const PieChart: React.FC<PieChartProps>  = ({data, matcher, legends}) => (
     <ResponsivePie
         data={data}
         margin={{ top: 40, right: 80, bottom: 80, left: 80 }}
@@ -50,74 +52,11 @@ const PieChart: React.FC<PieChartProps>  = ({data}) => (
         ]}
         fill={[
             {
-                match: {
-                    id: 'ruby'
-                },
-                id: 'dots'
+                match: matcher ? matcher : () => false,
+                id: 'warning'
             },
-            {
-                match: {
-                    id: 'c'
-                },
-                id: 'dots'
-            },
-            {
-                match: {
-                    id: 'go'
-                },
-                id: 'dots'
-            },
-            {
-                match: {
-                    id: 'python'
-                },
-                id: 'dots'
-            },
-            {
-                match: {
-                    id: 'scala'
-                },
-                id: 'lines'
-            },
-            {
-                match: {
-                    id: 'lisp'
-                },
-                id: 'lines'
-            },
-            {
-                match: {
-                    id: 'elixir'
-                },
-                id: 'lines'
-            },
-            {
-                match: {
-                    id: 'javascript'
-                },
-                id: 'lines'
-            }
         ]}
-        legends={[
-            {
-                anchor: 'bottom',
-                direction: 'row',
-                translateY: 56,
-                itemWidth: 100,
-                itemHeight: 18,
-                itemTextColor: '#999',
-                symbolSize: 18,
-                symbolShape: 'circle',
-                effects: [
-                    {
-                        on: 'hover',
-                        style: {
-                            itemTextColor: '#000'
-                        }
-                    }
-                ]
-            }
-        ]}
+        legends={legends}
     />
 )
 

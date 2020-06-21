@@ -10,6 +10,7 @@ import { get } from 'api/api';
 import { API_URL } from 'config';
 import { useSelector } from 'react-redux';
 import { List } from 'immutable';
+import PieChart from 'components/charts/pie/PieChart';
 
 const useStyles = makeStyles((theme) => ({
     ok: {
@@ -22,6 +23,10 @@ const useStyles = makeStyles((theme) => ({
         height: 300,
         width: 500,
     },
+    chartPie: {
+        height: 300,
+        width: 600,
+    },
     card: {
         margin: 0,
     },
@@ -33,7 +38,7 @@ const useStyles = makeStyles((theme) => ({
         fontWeight: 500,
     },
     uniList: {
-        padding: '0 5px'
+        padding: '5px 0'
     }
 }));
 
@@ -74,8 +79,11 @@ const matcher = (item: any) => {
     return item.data.data.last && (item.data.value < average)
 }
 
+
 const CriteriesPage: React.FC = () => {
     const classes = useStyles();
+
+    const dgtu = 'донской государственный технический университет'
 
     useEffect(() => {
         get(`${API_URL}/DGTU/StatisticOfYear`).then((result:any) => {
@@ -94,6 +102,18 @@ const CriteriesPage: React.FC = () => {
  
     const otherUnis = selectedProgramByUni.map((item) => item.get('university')).toSet();
 
+    const selectedProgramByUniLastYear = selectedProgramByUni.filter((item) => item.get('year') ! == 2019) //hardcoded for testing
+
+    const pieData = selectedProgramByUniLastYear.map((item) => ({
+        id: item.get('university'),
+        label: item.get('university'),
+        value: +item.get('employedGraduates'),
+        color: "hsl(46, 70%, 50%)",
+    })).toJS()
+
+    const pieaverage = pieData.reduce((total, cur) => total + cur.value, 0)/pieData.length
+    const pieMatcher = (item: any) => item.data.value < pieaverage
+
     return (
     <Box>
         <Typography>{selectedProgram}</Typography>
@@ -110,10 +130,15 @@ const CriteriesPage: React.FC = () => {
                                 by={'year'}
                             />
                         </Box>
-                        {otherUnis.size && <Box>
-                            <Typography className={classes.subheader}>Наличие программы в других университетах:</Typography>
+                        {otherUnis.size && 
+                        <Box>
+                            <Typography className={classes.subheader}>Наличие программы университетах:</Typography>
                             {otherUnis.map((uni) => <Typography key={uni} variant="body2" className={classes.uniList}>{uni}</Typography>)}
                         </Box>}
+                        <Box className={classes.chartPie}>
+                            <Typography className={classes.subheader}>Устроенные выпускники за последний год:</Typography>
+                            <PieChart data={pieData} matcher={pieMatcher}/>
+                        </Box>
                     </CardContent>
                 </CardCustom>
             </Grid>
