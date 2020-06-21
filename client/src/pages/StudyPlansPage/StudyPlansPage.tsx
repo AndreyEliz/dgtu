@@ -10,14 +10,13 @@ import CardCustom from 'components/CardCustom/CardCustom';
 import { useLocation } from 'hooks/router.hooks';
 import PlanStatusIcon from 'components/icons/PlanStatusIcon/PlanStatusIcon';
 import { API_URL } from 'config';
-import { get } from 'api/api';
 import { useDispatch } from 'react-redux';
 import { 
-    PROGRAMS_BY_UNIVERSITY,
     SELECT_PROGRAM
  } from 'actions/action-types';
 
 const useStyles = makeStyles((theme) => ({
+
     listItem: {
         cursor: 'pointer',
         '&:hover': {
@@ -26,50 +25,50 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-const warnList = [
-    {text: '01.03.04 - Прикладная математика', isOk: false, status: 'warning'},
-    {text:'02.03.03 - Математическое обеспечение и администрирование информационных систем', isOk: false, status: 'warning'},
-    {text:'03.03.01 - Прикладные математика и физика', isOk: false, status: 'warning'},
-    {text:'08.03.01 - Строительство', isOk: false, status: 'warning'},
+const baclanList = [
+    {text: '01.03.04 - Прикладная математика', isOk: true},
+    {text:'02.03.03 - Математическое обеспечение и администрирование информационных систем', isOk: true},
+    {text:'03.03.01 - Прикладные математика и физика', isOk: true},
+    {text:'08.03.01 - Строительство', isOk: true},
     {text:'09.03.01 - Информатика и вычислительная техника', isOk: false, status: 'warning'},
     {text:'09.03.03 - Прикладная информатика', isOk: false, status: 'warning'},
-    {text:'09.03.04 - Программная инженерия', isOk: false, status: 'warning'},
-]
-
-const errorList = [
-    {text: '01.04.04 - Прикладная математика', isOk: false, status: 'error'},
-    {text:'02.04.03 - Математическое обеспечение и администрирование информационных систем', isOk: false, status: 'error'},
+    {text:'09.03.04 - Программная инженерия', isOk: true},
+    {text: '01.04.04 - Прикладная математика', isOk: true},
+    {text:'02.04.03 - Математическое обеспечение и администрирование информационных систем', isOk: true},
     {text:'07.04.01 - Архитектура', isOk: false, status: 'error'},
-    {text:'07.04.02 - Реконструкция и реставрация архитектурного наследия', isOk: false, status: 'error'},
-    {text:'07.04.03 - Дизайн архитектурной среды', isOk: false, status: 'error'},
-    {text:'07.04.04 - Градостроительство', isOk: false, status: 'error'},
-    {text:'08.04.01 - Строительство', isOk: false, status: 'error'},
+    {text:'07.04.02 - Реконструкция и реставрация архитектурного наследия', isOk: true},
+    {text:'07.04.03 - Дизайн архитектурной среды', isOk: true},
+    {text:'07.04.04 - Градостроительство', isOk: true},
+    {text:'08.04.01 - Строительство', isOk: true},
 ]
 
-const HomePage: React.FC = () => {
+const magList = [
+    {text: '01.04.04 - Прикладная математика', isOk: true},
+    {text:'02.04.03 - Математическое обеспечение и администрирование информационных систем', isOk: true},
+    {text:'07.04.01 - Архитектура', isOk: false, status: 'error'},
+    {text:'07.04.02 - Реконструкция и реставрация архитектурного наследия', isOk: true},
+    {text:'07.04.03 - Дизайн архитектурной среды', isOk: true},
+    {text:'07.04.04 - Градостроительство', isOk: true},
+    {text:'08.04.01 - Строительство', isOk: true},
+]
+
+const StudyPlansPage: React.FC = () => {
     const classes = useStyles();
     const {navigate} = useLocation();
-
-    useEffect(() => {
-        get(`${API_URL}/DGTU/EducationalProgram`).then((data:any) => {
-            console.log('programs by university', data)
-            dispatch({type: PROGRAMS_BY_UNIVERSITY, data})
-        })
-    }, []);
-
-    const dispatch = useDispatch()
 
     const showCriteries = (title:string) => {
         dispatch({type: SELECT_PROGRAM, data: title})
         navigate('/criteries')
     }
- 
+
+    const dispatch = useDispatch()
+
     return (
     <Box>
-        <CardCustom title="Образовательные программы, требующие внимания">
+        <CardCustom title="Бакалавриат">
             <CardContent>
                 <List>
-                    {warnList.map((item) => 
+                    {baclanList.map((item) => 
                     <ListItem
                         key={item.text}
                         dense
@@ -84,15 +83,15 @@ const HomePage: React.FC = () => {
                 </List>
             </CardContent>
         </CardCustom>
-        <CardCustom title="Образовательные программы, не соответствующие критериям качества">
+        {/* <CardCustom title="Магистратура">
             <CardContent>
                 <List>
-                    {errorList.map((item) => 
+                    {magList.map((item) => 
                     <ListItem 
                         key={item.text}
                         dense
                         className={classes.listItem}
-                        onClick={() => showCriteries(item.text)}
+                        onClick={() => navigate('/criteries')}
                     >
                         <ListItemText primary={item.text}/>
                         <ListItemSecondaryAction>
@@ -101,9 +100,9 @@ const HomePage: React.FC = () => {
                     </ListItem>)}
                 </List>
             </CardContent>
-        </CardCustom>
+        </CardCustom> */}
     </Box>
     );
 }
 
-export default HomePage;
+export default StudyPlansPage;

@@ -5,7 +5,7 @@ import {
     GET_CURRENT_USERNAME,
     LOGOUT
 } from './action-types';
-import {API_URL} from 'config';
+// import {API_URL} from 'config';
 import {setAuthData} from 'api/api';
 
 const removeUserData = () =>{
@@ -27,7 +27,7 @@ export const login = (dispatch: Function, data: any) => {
 
     removeUserData()
 
-    return post(`${API_URL}/authentication/token`, {password, username})
+    return post(`http://localhost:44358/api/authentication/token`, {password, username})
         .then((response) => {
             setAuthData(response);
             dispatch({type: AUTHENTICATION_SUCCEED, data: {username, ...response}});
